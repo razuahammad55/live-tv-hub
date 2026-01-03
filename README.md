@@ -5,7 +5,7 @@ A GitHub Actions bot/utility that automatically downloads and cleans the latest 
 ## Usage
 
 No manual upload required!  
-The bot fetches `playlist.m3u` from:
+The bot fetches `all.m3u` from:
 
 ```
 https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/all.m3u
