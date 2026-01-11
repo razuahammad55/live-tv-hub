@@ -49,6 +49,9 @@ https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1768147805&u=78be6644-0a65-48e
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="AynaOTT",Ekhon TV
 https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1768147806&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=610a5d9b9301a697ad2993ab63eb7ada
 
+#EXTINF:-1 group-title="Tofee" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png", Animal Planet HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AynaOTT",T Sports HD
 https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768147825&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=290008698c4baafde061da58143f9d06
 
@@ -57,3 +60,6 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="AynaOTT",Star Jalsha HD
 https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1768148036&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4e6da9428d78c0047cec7ad78ea67c8e
+
+#EXTINF:-1 group-title="Tofee" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", Sony Aath
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
