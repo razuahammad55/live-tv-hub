@@ -23,10 +23,24 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="Akash Go",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://tvassets.roarzone.info/images/61.png",Boishakhi TV
+https://edge2.roarzone.info:444/roarzone/bk/61/index.m3u8?token=cc5c8d50d7fe98c1ad1c2634632a8c83cb604267-c618247bd95df2b60402db5fc973eaa9-1768113887-1768103087
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://tvassets.roarzone.info/images/7.png",DBC News
+https://edge2.roarzone.info:444/roarzone/bk/7/index.m3u8?token=8a77969c0b9aadb3804ed4f6e8034c59998da0e5-dfdcc389f1a3d6dba1d0059b3a749959-1768113887-1768103087
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://tvassets.roarzone.info/images/10.png",Duronto TV
+https://edge2.roarzone.info:444/roarzone/bk/10/index.m3u8?token=81f41b94b33486a3ab86401cbe022a0f5e8023e3-d0e9a7d0ae05e882c719c35ebbd442bc-1768113887-1768103087
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://tvassets.roarzone.info/images/51.png",Maasranga
+https://edge2.roarzone.info:444/roarzone/bk/51/index.m3u8?token=7ca3209f9694d585c0a9326763ef5f79b635385c-d11218a5ab59b318046edbe3fb38091f-1768113887-1768103087
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://tvassets.roarzone.info/images/14.png",RTV
+https://edge2.roarzone.info:444/roarzone/bk/14/index.m3u8?token=f724d4bca6e29e32e713dcc742f32f02c2687f01-2a2b01b432c918d78cf43554e2e7dfbe-1768113887-1768103087
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png",Animal Planet
 https://edge2.roarzone.info:444/roarzone/toffee/animal_planet_hd/index.m3u8?token=5645717405101e62670b8d87ebf9ecbfd34aeef2-06ef613e0fc98c7bf9d6a0e8e98a304a-1768113887-1768103087
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://tvassets.roarzone.info/images/30.png",Star Jalsha
 https://edge2.roarzone.info:444/roarzone/bk/30/index.m3u8?token=eb1d57a722a1089ca606a60ec9af8b044787c13e-3701e12f65c89b384ca97731b502026f-1768113887-1768103087
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://tvassets.roarzone.info/images/31.png",Star Jalsha Movies
