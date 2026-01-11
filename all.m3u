@@ -36,7 +36,8 @@ https://edge2.roarzone.info:444/roarzone/bk/51/index.m3u8?token=7ca3209f9694d585
 https://edge2.roarzone.info:444/roarzone/bk/14/index.m3u8?token=f724d4bca6e29e32e713dcc742f32f02c2687f01-2a2b01b432c918d78cf43554e2e7dfbe-1768113887-1768103087
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png",Animal Planet
-https://edge2.roarzone.info:444/roarzone/toffee/animal_planet_hd/index.m3u8?token=5645717405101e62670b8d87ebf9ecbfd34aeef2-06ef613e0fc98c7bf9d6a0e8e98a304a-1768113887-1768103087
+http://103.60.204.26:3255/AnimalPlanetHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
