@@ -26,13 +26,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="AKKAS GO",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 group-title="bangla" tvg-logo="https://tvassets.roarzone.info/images/65.png",Ekushy TV
-https://edge2.roarzone.info:444/roarzone/bk/65/index.m3u8?token=5ba8f86a1370d87adee70817bf4af3de34aa6c51-dba328488ab1535e71757a8924b204e1-1768106741-1768095941#EXTINF:-1 group-title="bangla" tvg-logo="https://tvassets.roarzone.info/images/7.png",DBC News
-https://edge2.roarzone.info:444/roarzone/bk/7/index.m3u8?token=4ed5100d0b19f879880c4b1c8762405ce50ebdba-14198a493b0ee6cd47d125029e5ca52c-1768106741-1768095941
-#EXTINF:-1 group-title="bangla" tvg-logo="https://tvassets.roarzone.info/images/9.png",Desh TV
-https://edge2.roarzone.info:444/roarzone/bk/9/index.m3u8?token=85cb60c9b27f40162472b06f90f94441a1a60381-2631a758b001d3579d4f8444bf5f1e1f-1768106741-1768095941
-#EXTINF:-1 group-title="bangla" tvg-logo="https://tvassets.roarzone.info/images/10.png",Duronto TV
-https://edge2.roarzone.info:444/roarzone/bk/10/index.m3u8?token=e35786b05a52e4c2882d3532d0f4d05c41675f2c-ce0d653b5a8bf069fb7a3ceef8c41de3-1768106741-1768095941
 #EXTINF:-1 group-title="bangla" tvg-logo="https://tvassets.roarzone.info/images/51.png",Maasranga
 https://edge2.roarzone.info:444/roarzone/bk/51/index.m3u8?token=9918cbd96d97fd129715ba3bf1b46775ac36d52d-37bcb0bcd978ba2ff6982bea939158da-1768106741-1768095941
 #EXTINF:-1 group-title="bangla" tvg-logo="https://tvassets.roarzone.info/images/86.png",Movie Bangla TV
@@ -97,7 +90,6 @@ https://edge2.roarzone.info:444/roarzone/toffee/pogo_sd/index.m3u8?token=6b5bd3c
 https://edge2.roarzone.info:444/roarzone/toffee/discovery_kids/index.m3u8?token=97e2b0036af8920c16bcb2bf0d2eaf715cc91a65-f97c6f17051fffda925f694e30ad2581-1768106741-1768095941
 #EXTINF:-1 group-title="kids" tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png",Sony Yay
 https://edge2.roarzone.info:444/roarzone/toffee/sonyyay/index.m3u8?token=0bf196e38f3c007e8da38fb3b732ef68133a9b41-6537b496f400a3113ac771aa4f4c846b-1768106741-1768095941
-
 
 #EXTINF:-1 group-title="hindi" tvg-logo="https://tvassets.roarzone.info/images/75.png",Star Gold Select
 https://edge2.roarzone.info:444/roarzone/bk/72/index.m3u8?token=1fd02bdfee29ccd6ca48ef86552bd551a41dc7ab-c050a123469a1e10519d1dcd6638727e-1768106741-1768095941
