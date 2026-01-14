@@ -69,20 +69,13 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png",[BD] EPL channel 1
 https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1768454270:KeyName=prod_live_events:Signature=jBNqQbafV7jElmW-XflxMTRxYsnzS0T6yYb6bbeezrYLx556qUl8VbQow79tEJ86XFt8pYw_LH0V5-IS9B0dAw"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png",[BD] Jamuna TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1768576498:KeyName=prod_linear:Signature=DD-a0WR3y55wwXGlRdt_takTe49nXNRyv4UU0PjsiPfcdbvb35gNxP0qJUYf69K1rWMqdvqZmGs5JhVKZHCgDQ"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",[BD] Somoy TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1768576502:KeyName=prod_linear:Signature=DlP8DeqOaWRPw9MDRBK_Xs01kXHWWNDotzl8EBRFOZe96YzW8bGvZdWCPfshuJuO40o_4xRSQWiZj1-kGHCWAQ"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png",[BD] Ekattor TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1768576508:KeyName=prod_linear:Signature=OQs3V5oIJEIZXdDNeOT0L9ZSS0F9J7H_eGmKJX3ZsSZOQr-8Qmd-F_t7GXeb4vOl5HX70K6reVG6_ZbSec3fDQ"}
+
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png",[BD] Independent TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
