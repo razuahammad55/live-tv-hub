@@ -58,6 +58,9 @@ https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768147825&u=78be6644-0a65-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="AynaOTT",Star Jalsha HD
 https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1768148036&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4e6da9428d78c0047cec7ad78ea67c8e
 
