@@ -48,8 +48,8 @@ http://103.229.254.25:7001/play/a05t/index.m3u8
 http://103.229.254.25:7001/play/a06h/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="AynaOTT",Ekhon TV
 http://103.229.254.25:7001/play/a09k/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8" group-title="Bangla",ETV
-http://103.229.254.25:7001/play/a0de/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8" group-title="Bangla",Ekushey TV
+http://103.229.254.25:7001/play/a05x/index.m3u8
 
 #EXTINF:-1 group-title="documentary" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png",Animal Planet
 http://103.229.254.25:7001/play/a0dr/index.m3u8
@@ -57,8 +57,6 @@ http://103.229.254.25:7001/play/a0dr/index.m3u8
 http://103.229.254.25:7001/play/a03g/index.m3u8
 #EXTINF:-1 group-title="documentary" tvg-logo="https://tvassets.roarzone.info/images/35.png",Natgeo
 http://103.229.254.25:7001/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AynaOTT",T Sports HD
-https://tvsen7.aynaott.com/tsportshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="AynaOTT",Star Jalsha HD
 http://103.229.254.25:7001/play/a0c0/index.m3u8
@@ -70,8 +68,6 @@ http://103.229.254.25:7001/play/a0c3/index.m3u8
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="Tofee" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", Sony Aath
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 
 #EXTINF:-1 group-title="music" tvg-logo="https://tvassets.roarzone.info/images/48.png",9xM
 http://103.229.254.25:7001/play/a07o/index.m3u8
