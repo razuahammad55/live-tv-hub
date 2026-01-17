@@ -53,7 +53,7 @@ https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1768147806&u=78be6644-0a65-48e
 https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AynaOTT",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768147825&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=290008698c4baafde061da58143f9d06
+https://tvsen7.aynaott.com/tsportshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
