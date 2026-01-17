@@ -65,8 +65,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="AynaOTT",Star Jalsha HD
-http://103.55.144.46/hls/starjalsha.m3u8
-
+http://103.175.242.10:8080/starjalsha/index.m3u8
 
 #EXTINF:-1 group-title="Tofee" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", Sony Aath
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
