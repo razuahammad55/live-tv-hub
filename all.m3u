@@ -54,25 +54,26 @@ http://103.229.254.25:7001/play/a05x/index.m3u8
 #EXTINF:-1 group-title="documentary" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png",Animal Planet
 http://103.229.254.25:7001/play/a0dr/index.m3u8
 #EXTINF:-1 group-title="documentary" tvg-logo="https://tvassets.roarzone.info/images/43.png",Discovery HD
-http://103.229.254.25:7001/play/a03g/index.m3u8
+http://cdnd.sonyplex.com:8090/hls/DiscoveryHD.m3u8
 #EXTINF:-1 group-title="documentary" tvg-logo="https://tvassets.roarzone.info/images/35.png",Natgeo
 http://103.229.254.25:7001/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="AynaOTT",Star Jalsha HD
-http://103.229.254.25:7001/play/a0c0/index.m3u8
+http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/31.png",Star Jalsha Movies
-http://103.229.254.25:7001/play/a0dt/index.m3u8
+http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/34.png",Zee Bangla HD
 http://103.229.254.25:7001/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/33.png",Sony Aath
 https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="ROAR ISP*",T sports
-https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
+https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
 
 #EXTINF:-1 group-title="music" tvg-logo="https://tvassets.roarzone.info/images/48.png",9xM
 http://103.229.254.25:7001/play/a07o/index.m3u8
