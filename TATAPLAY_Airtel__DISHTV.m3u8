@@ -1,0 +1,1638 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",Cartoon Network
+http://opplex.org:8080/live/36254571/3526987/150478.ts
+#EXTINF:-1 tvg-id="pogo.in" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS",Pogo
+http://opplex.org:8080/live/36254571/3526987/150483.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="KIDS",Cartoon Network HD+
+http://opplex.org:8080/live/36254571/3526987/153154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS",Sony yay
+http://opplex.org:8080/live/36254571/3526987/26187.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS",Hungama
+http://opplex.org:8080/live/36254571/3526987/150480.ts
+#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",Nick
+http://opplex.org:8080/live/36254571/3526987/150482.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS",Nick Junior
+http://opplex.org:8080/live/36254571/3526987/153156.ts
+#EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",Discovery kids
+http://opplex.org:8080/live/36254571/3526987/76723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS",Disney Junior
+http://opplex.org:8080/live/36254571/3526987/153175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chutti Tv" tvg-logo="" group-title="KIDS",Chutti Tv
+http://opplex.org:8080/live/36254571/3526987/150479.ts
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY HD
+http://opplex.org:8080/live/36254571/3526987/167551.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK SONIC" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS",NICK SONIC
+http://opplex.org:8080/live/36254571/3526987/34011.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS",NICK HD+ [FHD]
+http://opplex.org:8080/live/36254571/3526987/76722.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK | Kids Zone+ HD" tvg-logo="http://b1g.fun/logos2/kids_zone.jpg" group-title="KIDS",PK | Kids Zone+ HD
+http://opplex.org:8080/live/36254571/3526987/383066.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS",24/7 MOTU PATLU 01
+http://opplex.org:8080/live/36254571/3526987/307079.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS",24/7 MOTU PATLU 02
+http://opplex.org:8080/live/36254571/3526987/311373.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHIVA" tvg-logo="https://w7.pngwing.com/pngs/352/597/png-transparent-shiva-nickelodeon-sonic-cartoon-television-show-shiva-sports-equipment-fictional-character-pakdam-pakdai-thumbnail.png" group-title="KIDS",24/7 SHIVA
+http://opplex.org:8080/live/36254571/3526987/342074.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHUCHU TV " tvg-logo="" group-title="KIDS",24/7 CHUCHU TV 
+http://opplex.org:8080/live/36254571/3526987/340807.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Baal Veer " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Baalveer_Returns_Title_Card.jpg/220px-Baalveer_Returns_Title_Card.jpg" group-title="KIDS",24/7 Baal Veer 
+http://opplex.org:8080/live/36254571/3526987/340809.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chacha Bhatija" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFlODk2ZmEtMWE5MC00Nzg5LWE3ODMtMzViYTRhNjdjMjgzXkEyXkFqcGdeQXVyNjEyNjM1MjY@._V1_.jpg" group-title="KIDS",24/7 Chacha Bhatija
+http://opplex.org:8080/live/36254571/3526987/311774.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Wow Kids Action" tvg-logo="http://logo.opplextv.com/logo/WowKidsAction.png" group-title="KIDS",24/7 Wow Kids Action
+http://opplex.org:8080/live/36254571/3526987/314753.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vir The Robot Boy" tvg-logo="http://logo.opplextv.com/logo/VirTheRobotBoy.png" group-title="KIDS",24/7 Vir The Robot Boy
+http://opplex.org:8080/live/36254571/3526987/314754.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | DORAEMON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="KIDS",24/7 KIDS | DORAEMON
+http://opplex.org:8080/live/36254571/3526987/388459.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK PANTHER 24/7" tvg-logo="" group-title="KIDS",PINK PANTHER 24/7
+http://opplex.org:8080/live/36254571/3526987/301503.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHU CHU TV 24/7" tvg-logo="" group-title="KIDS",CHU CHU TV 24/7
+http://opplex.org:8080/live/36254571/3526987/301502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 24/7" tvg-logo="" group-title="KIDS",Sonic 24/7
+http://opplex.org:8080/live/36254571/3526987/301500.ts
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN (CARTOON) 24/7" tvg-logo="" group-title="KIDS",MR BEAN (CARTOON) 24/7
+http://opplex.org:8080/live/36254571/3526987/301501.ts
+#EXTINF:-1 tvg-id="" tvg-name="CoComelon TV 24/7" tvg-logo="" group-title="KIDS",CoComelon TV 24/7
+http://opplex.org:8080/live/36254571/3526987/301499.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 All Hail King Julien Exiled" tvg-logo="" group-title="KIDS",24/7 All Hail King Julien Exiled
+http://opplex.org:8080/live/36254571/3526987/301504.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rick And Morty" tvg-logo="" group-title="KIDS",24/7 Rick And Morty
+http://opplex.org:8080/live/36254571/3526987/301505.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha and the Bear" tvg-logo="" group-title="KIDS",24/7 Masha and the Bear
+http://opplex.org:8080/live/36254571/3526987/301506.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Little Baby Bum" tvg-logo="" group-title="KIDS",24/7 Little Baby Bum
+http://opplex.org:8080/live/36254571/3526987/301507.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Boss Baby Back in Business" tvg-logo="" group-title="KIDS",24/7 The Boss Baby Back in Business
+http://opplex.org:8080/live/36254571/3526987/301508.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="" group-title="KIDS",24/7 Peppa Pig
+http://opplex.org:8080/live/36254571/3526987/301509.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blippi" tvg-logo="" group-title="KIDS",24/7 Blippi
+http://opplex.org:8080/live/36254571/3526987/301510.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gabby_s Dollhouse" tvg-logo="" group-title="KIDS",24/7 Gabby_s Dollhouse
+http://opplex.org:8080/live/36254571/3526987/301511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oggy and the Cockroaches Hindi" tvg-logo="" group-title="KIDS",Oggy and the Cockroaches Hindi
+http://opplex.org:8080/live/36254571/3526987/308282.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chhota Bheem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg" group-title="KIDS",24/7 Chhota Bheem
+http://opplex.org:8080/live/36254571/3526987/315401.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="KIDS",24/7 Tom & Jerry
+http://opplex.org:8080/live/36254571/3526987/329247.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo" tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo.png" group-title="KIDS",24/7 Scooby-Doo
+http://opplex.org:8080/live/36254571/3526987/329248.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Booba" tvg-logo="" group-title="KIDS",24/7 Booba
+http://opplex.org:8080/live/36254571/3526987/340803.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS SONGS HINDI" tvg-logo="" group-title="KIDS",24/7 KIDS SONGS HINDI
+http://opplex.org:8080/live/36254571/3526987/340802.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BabyBus | Nursery Rhymes" tvg-logo="" group-title="KIDS",24/7 BabyBus | Nursery Rhymes
+http://opplex.org:8080/live/36254571/3526987/340804.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOV HINDI" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOV HINDI
+http://opplex.org:8080/live/36254571/3526987/362998.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOVIES
+http://opplex.org:8080/live/36254571/3526987/362999.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 01" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOVIES ENG 01
+http://opplex.org:8080/live/36254571/3526987/363000.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 02" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOVIES ENG 02
+http://opplex.org:8080/live/36254571/3526987/363001.ts
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="MUSIC",Zoom TV
+http://opplex.org:8080/live/36254571/3526987/66190.ts
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="MUSIC",9xm
+http://opplex.org:8080/live/36254571/3526987/66192.ts
+#EXTINF:-1 tvg-id="" tvg-name="B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="MUSIC",B4u Music
+http://opplex.org:8080/live/36254571/3526987/66203.ts
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="MUSIC",9x Jalwa
+http://opplex.org:8080/live/36254571/3526987/66226.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV BEAT" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="MUSIC",MTV BEAT
+http://opplex.org:8080/live/36254571/3526987/66273.ts
+#EXTINF:-1 tvg-id="" tvg-name="YRF MUSIC" tvg-logo="" group-title="MUSIC",YRF MUSIC
+http://opplex.org:8080/live/36254571/3526987/383530.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOWBOX MUSIC" tvg-logo="" group-title="MUSIC",SHOWBOX MUSIC
+http://opplex.org:8080/live/36254571/3526987/383529.ts
+#EXTINF:-1 tvg-id="" tvg-name="pun: Pittara TV" tvg-logo="" group-title="MUSIC",pun: Pittara TV
+http://opplex.org:8080/live/36254571/3526987/66285.ts
+#EXTINF:-1 tvg-id="" tvg-name="9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="MUSIC",9x Tashan
+http://opplex.org:8080/live/36254571/3526987/66289.ts
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",Colors (4K)
+http://opplex.org:8080/live/36254571/3526987/109947.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="SONY SET (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",SONY SET (4K)
+http://opplex.org:8080/live/36254571/3526987/109948.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",Star Plus (4K)
+http://opplex.org:8080/live/36254571/3526987/109949.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",ZEE TV (4K)
+http://opplex.org:8080/live/36254571/3526987/109950.ts
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",STAR BHARAT (4K)
+http://opplex.org:8080/live/36254571/3526987/109951.ts
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&tv (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",&tv (4K)
+http://opplex.org:8080/live/36254571/3526987/109952.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",SONY SAB (4K)
+http://opplex.org:8080/live/36254571/3526987/109953.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mastii" tvg-logo="" group-title="MUSIC",Mastii
+http://opplex.org:8080/live/36254571/3526987/112988.ts
+#EXTINF:-1 tvg-id="housefullmovies.in" tvg-name="UTV Bindass" tvg-logo="" group-title="MUSIC",UTV Bindass
+http://opplex.org:8080/live/36254571/3526987/112993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Punjabi: PTC MUSIC" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599237s.png" group-title="MUSIC",Punjabi: PTC MUSIC
+http://opplex.org:8080/live/36254571/3526987/153373.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="" group-title="MUSIC",MUSIC INDIA
+http://opplex.org:8080/live/36254571/3526987/190028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boogle Bollywood" tvg-logo="" group-title="MUSIC",Boogle Bollywood
+http://opplex.org:8080/live/36254571/3526987/206045.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD +" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png" group-title="MUSIC",MTV HD +
+http://opplex.org:8080/live/36254571/3526987/206049.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="MUSIC",MTV India
+http://opplex.org:8080/live/36254571/3526987/206054.ts
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="DOCUMENTARY",BBC EART HINDI
+http://opplex.org:8080/live/36254571/3526987/206278.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="DOCUMENTARY",BBC EART ENG
+http://opplex.org:8080/live/36254571/3526987/383184.ts
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet Hindi
+http://opplex.org:8080/live/36254571/3526987/206282.ts
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet FHD ENG
+http://opplex.org:8080/live/36254571/3526987/206283.ts
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="DOCUMENTARY",Nat Geo HD Hindi
+http://opplex.org:8080/live/36254571/3526987/206285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="DOCUMENTARY",Nat Geo HD ENG
+http://opplex.org:8080/live/36254571/3526987/383183.ts
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="DOCUMENTARY",Nat Geo Wild HINDI
+http://opplex.org:8080/live/36254571/3526987/206286.ts
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="DOCUMENTARY",Nat Geo Wild FHD ENG
+http://opplex.org:8080/live/36254571/3526987/206587.ts
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="DOCUMENTARY",Discovery Hindi
+http://opplex.org:8080/live/36254571/3526987/206287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="DOCUMENTARY",Discovery Science
+http://opplex.org:8080/live/36254571/3526987/206289.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTARY",Investigation Discovery Hindi
+http://opplex.org:8080/live/36254571/3526987/206291.ts
+#EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTARY",Discovery Turbo
+http://opplex.org:8080/live/36254571/3526987/206292.ts
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="Travel XP Eng" tvg-logo="" group-title="DOCUMENTARY",Travel XP Eng
+http://opplex.org:8080/live/36254571/3526987/206279.ts
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="DOCUMENTARY",Travel_XP Hindi
+http://opplex.org:8080/live/36254571/3526987/206280.ts
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="DOCUMENTARY",History 18 Hindi
+http://opplex.org:8080/live/36254571/3526987/206294.ts
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="History TV 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="DOCUMENTARY",History TV 18 FHD
+http://opplex.org:8080/live/36254571/3526987/206295.ts
+#EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="DOCUMENTARY",Epic
+http://opplex.org:8080/live/36254571/3526987/206296.ts
+#EXTINF:-1 tvg-id="" tvg-name="Balle Balle" tvg-logo="" group-title="MUSIC",Balle Balle
+http://opplex.org:8080/live/36254571/3526987/219495.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wah Punjabi" tvg-logo="" group-title="MUSIC",Wah Punjabi
+http://opplex.org:8080/live/36254571/3526987/219496.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" group-title="MUSIC",ZING
+http://opplex.org:8080/live/36254571/3526987/219497.ts
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",&pictures (4K)
+http://opplex.org:8080/live/36254571/3526987/109955.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="SONY MAX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",SONY MAX (4K)
+http://opplex.org:8080/live/36254571/3526987/109957.ts
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",ZEE CINEMA (4K)
+http://opplex.org:8080/live/36254571/3526987/109958.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star GOLD (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",Star GOLD (4K)
+http://opplex.org:8080/live/36254571/3526987/109959.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",Star Gold Select (4K)
+http://opplex.org:8080/live/36254571/3526987/109960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movies_active (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",Movies_active (4K)
+http://opplex.org:8080/live/36254571/3526987/109961.ts
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& flix (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",& flix (4K)
+http://opplex.org:8080/live/36254571/3526987/109962.ts
+#EXTINF:-1 tvg-id="hbohd.in" tvg-name="& Prive (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",& Prive (4K)
+http://opplex.org:8080/live/36254571/3526987/109963.ts
+#EXTINF:-1 tvg-id="" tvg-name="& Xplorer (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",& Xplorer (4K)
+http://opplex.org:8080/live/36254571/3526987/109964.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",MN+ (4K)
+http://opplex.org:8080/live/36254571/3526987/109965.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",SONY PIX (4K)
+http://opplex.org:8080/live/36254571/3526987/109966.ts
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",Movies Now (4K)
+http://opplex.org:8080/live/36254571/3526987/109968.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="STAR MOVIES (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",STAR MOVIES (4K)
+http://opplex.org:8080/live/36254571/3526987/109970.ts
+#EXTINF:-1 tvg-id="starworldhd.in" tvg-name="STAR WORLD (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",STAR WORLD (4K)
+http://opplex.org:8080/live/36254571/3526987/109971.ts
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="DISCOVERY (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",DISCOVERY (4K)
+http://opplex.org:8080/live/36254571/3526987/109974.ts
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",ANIMAL PLANET (4K)
+http://opplex.org:8080/live/36254571/3526987/109975.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT Geo Wild (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",NAT Geo Wild (4K)
+http://opplex.org:8080/live/36254571/3526987/109976.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="National GEO (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",National GEO (4K)
+http://opplex.org:8080/live/36254571/3526987/109977.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",Sony BBC Ear (4K)
+http://opplex.org:8080/live/36254571/3526987/109978.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="FOX Life (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",FOX Life (4K)
+http://opplex.org:8080/live/36254571/3526987/109980.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",COLORS CINEPLEX (4K)
+http://opplex.org:8080/live/36254571/3526987/206315.ts
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="Jalsha Movies (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K ULTRA HD",Jalsha Movies (4K)
+http://opplex.org:8080/live/36254571/3526987/206320.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="SPORTS",Sony Ten 1 (4K)
+http://opplex.org:8080/live/36254571/3526987/109983.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 2 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="SPORTS",Sony Ten 2 (4K)
+http://opplex.org:8080/live/36254571/3526987/109984.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="SPORTS",Sony Ten 3 (4K)
+http://opplex.org:8080/live/36254571/3526987/109985.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="SPORTS",Star Sport 1 HINDI (4K)
+http://opplex.org:8080/live/36254571/3526987/109986.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="SPORTS",Star Sports 1 (4K)
+http://opplex.org:8080/live/36254571/3526987/109987.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)" tvg-logo="" group-title="SPORTS",Star Sports 2 (4K)
+http://opplex.org:8080/live/36254571/3526987/109988.ts
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="SONY SIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" group-title="SPORTS",SONY SIX (4K)
+http://opplex.org:8080/live/36254571/3526987/109992.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="SPORTS",Star Sports Select 1 (4K)
+http://opplex.org:8080/live/36254571/3526987/109993.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="SPORTS",Star Sports Select 2 (4K)
+http://opplex.org:8080/live/36254571/3526987/109994.ts
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="EUROPSPORT (4K)" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="SPORTS",EUROPSPORT (4K)
+http://opplex.org:8080/live/36254571/3526987/206324.ts
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="ENTERTAINMENT",Zee TV
+http://opplex.org:8080/live/36254571/3526987/221250.ts
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="ENTERTAINMENT",Zee TV HD
+http://opplex.org:8080/live/36254571/3526987/66162.ts
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV [FHD]" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="ENTERTAINMENT",Zee TV [FHD]
+http://opplex.org:8080/live/36254571/3526987/66163.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony SET (TATAPLAY)" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="ENTERTAINMENT",Sony SET (TATAPLAY)
+http://opplex.org:8080/live/36254571/3526987/221251.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony SET HD" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="ENTERTAINMENT",Sony SET HD
+http://opplex.org:8080/live/36254571/3526987/66164.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony SET [FHD]" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="ENTERTAINMENT",Sony SET [FHD]
+http://opplex.org:8080/live/36254571/3526987/66165.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="ENTERTAINMENT",Star Plus
+http://opplex.org:8080/live/36254571/3526987/221252.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="ENTERTAINMENT",Star Plus HD
+http://opplex.org:8080/live/36254571/3526987/66166.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus FHD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="ENTERTAINMENT",Star Plus FHD
+http://opplex.org:8080/live/36254571/3526987/66208.ts
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="ENTERTAINMENT",Colors
+http://opplex.org:8080/live/36254571/3526987/221254.ts
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors HD" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="ENTERTAINMENT",Colors HD
+http://opplex.org:8080/live/36254571/3526987/66167.ts
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors [FHD]" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="ENTERTAINMENT",Colors [FHD]
+http://opplex.org:8080/live/36254571/3526987/66168.ts
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="ENTERTAINMENT",Star Bharat
+http://opplex.org:8080/live/36254571/3526987/221255.ts
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="ENTERTAINMENT",Star Bharat HD
+http://opplex.org:8080/live/36254571/3526987/66170.ts
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat [FHD]" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="ENTERTAINMENT",Star Bharat [FHD]
+http://opplex.org:8080/live/36254571/3526987/66171.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="ENTERTAINMENT",Sony Sab
+http://opplex.org:8080/live/36254571/3526987/221256.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="ENTERTAINMENT",Sony Sab HD
+http://opplex.org:8080/live/36254571/3526987/66174.ts
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="Sony Sab UK" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="ENTERTAINMENT",Sony Sab UK
+http://opplex.org:8080/live/36254571/3526987/66175.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="ENTERTAINMENT",SONY SAB [FHD]
+http://opplex.org:8080/live/36254571/3526987/104194.ts
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&Tv" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="ENTERTAINMENT",&Tv
+http://opplex.org:8080/live/36254571/3526987/221253.ts
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&Tv HD" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="ENTERTAINMENT",&Tv HD
+http://opplex.org:8080/live/36254571/3526987/66172.ts
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&Tv [FHD]" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="ENTERTAINMENT",&Tv [FHD]
+http://opplex.org:8080/live/36254571/3526987/66173.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="MOVIES",STAR GOLD THRILLS
+http://opplex.org:8080/live/36254571/3526987/221258.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="MOVIES",Star Gold HD
+http://opplex.org:8080/live/36254571/3526987/66177.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="MOVIES",Star Gold [FHD]
+http://opplex.org:8080/live/36254571/3526987/66178.ts
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="MOVIES",Star Gold Select
+http://opplex.org:8080/live/36254571/3526987/221257.ts
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select FHD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="MOVIES",Star Gold Select FHD
+http://opplex.org:8080/live/36254571/3526987/66176.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="MOVIES",Star Gold 2
+http://opplex.org:8080/live/36254571/3526987/106133.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="STAR GOLD HD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="MOVIES",STAR GOLD HD (TATASKY)
+http://opplex.org:8080/live/36254571/3526987/112982.ts
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="MOVIES",& Pictures
+http://opplex.org:8080/live/36254571/3526987/221260.ts
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="MOVIES",& Pictures HD
+http://opplex.org:8080/live/36254571/3526987/66181.ts
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Pictures [FHD]" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="MOVIES",& Pictures [FHD]
+http://opplex.org:8080/live/36254571/3526987/66183.ts
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA FHD (TATASKY)
+http://opplex.org:8080/live/36254571/3526987/221261.ts
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA HD
+http://opplex.org:8080/live/36254571/3526987/206307.ts
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA [FHD]
+http://opplex.org:8080/live/36254571/3526987/206308.ts
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",Zee Cinema USA
+http://opplex.org:8080/live/36254571/3526987/206268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="MOVIES",Dhamaka Movies B4U
+http://opplex.org:8080/live/36254571/3526987/66184.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="MOVIES",Oscar Movies
+http://opplex.org:8080/live/36254571/3526987/66185.ts
+#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="MOVIES",STAR GOLD ROMANCE
+http://opplex.org:8080/live/36254571/3526987/66186.ts
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="MOVIES",COLORS CINEPLEX
+http://opplex.org:8080/live/36254571/3526987/104191.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="MOVIES",COLORS CINEPLEX FHD
+http://opplex.org:8080/live/36254571/3526987/206310.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="MOVIES",Sony Max (TATAPLAY)
+http://opplex.org:8080/live/36254571/3526987/221259.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="MOVIES",Sony Max HD
+http://opplex.org:8080/live/36254571/3526987/66179.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="MOVIES",Sony Max [FHD]
+http://opplex.org:8080/live/36254571/3526987/66180.ts
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="MOVIES",SONY MAX 2
+http://opplex.org:8080/live/36254571/3526987/66189.ts
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="MOVIES",Zee Anmol Cinema
+http://opplex.org:8080/live/36254571/3526987/66187.ts
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="Colors Rishtey" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="ENTERTAINMENT",Colors Rishtey
+http://opplex.org:8080/live/36254571/3526987/66188.ts
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="Color Cineplex SuperHits" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="ENTERTAINMENT",Color Cineplex SuperHits
+http://opplex.org:8080/live/36254571/3526987/66199.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ZEE ACTION" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="ENTERTAINMENT",ZEE ACTION
+http://opplex.org:8080/live/36254571/3526987/66191.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest/scale-to-width-down/270?cb=20200907154854" group-title="MOVIES",ZEE CLASSIC
+http://opplex.org:8080/live/36254571/3526987/66201.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bflix Movies" tvg-logo="https://b1g.fun/logos2/b_flix.jpg" group-title="MOVIES",Bflix Movies
+http://opplex.org:8080/live/36254571/3526987/104190.ts
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_pal.jpg" group-title="ENTERTAINMENT",Sony Pal
+http://opplex.org:8080/live/36254571/3526987/104192.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="ENTERTAINMENT",BIG MAGIC
+http://opplex.org:8080/live/36254571/3526987/104198.ts
+#EXTINF:-1 tvg-id="" tvg-name="B4U Kadak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="ENTERTAINMENT",B4U Kadak
+http://opplex.org:8080/live/36254571/3526987/104199.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABZY MOVIES" tvg-logo="http://b1g.fun/logos2/abzy_movies.jpg" group-title="MOVIES",ABZY MOVIES
+http://opplex.org:8080/live/36254571/3526987/104200.ts
+#EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="" group-title="MOVIES",B4U Movies
+http://opplex.org:8080/live/36254571/3526987/104201.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evergreeen Classic" tvg-logo="http://b1g.fun/logos2/evergreen_classicsactive.jpg" group-title="MOVIES",Evergreeen Classic
+http://opplex.org:8080/live/36254571/3526987/384600.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENTER 10 Movies" tvg-logo="http://b1g.fun/logos2/enterr10_movies.jpg" group-title="MOVIES",ENTER 10 Movies
+http://opplex.org:8080/live/36254571/3526987/104202.ts
+#EXTINF:-1 tvg-id="" tvg-name="MANORANJAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="ENTERTAINMENT",MANORANJAN TV
+http://opplex.org:8080/live/36254571/3526987/104203.ts
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png" group-title="ENTERTAINMENT",Zee Anmol
+http://opplex.org:8080/live/36254571/3526987/66357.ts
+#EXTINF:-1 tvg-id="" tvg-name="MANORANJAN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="MOVIES",MANORANJAN MOVIES
+http://opplex.org:8080/live/36254571/3526987/104204.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="MOVIES",Maha Movies
+http://opplex.org:8080/live/36254571/3526987/104206.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOW CINEMA ONE" tvg-logo="https://static.epg.best/in/WOWCinema.in.png" group-title="MOVIES",WOW CINEMA ONE
+http://opplex.org:8080/live/36254571/3526987/106132.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",ZEE CINEMA UK
+http://opplex.org:8080/live/36254571/3526987/112970.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="STAR UTSAV MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540" group-title="MOVIES",STAR UTSAV MOVIES
+http://opplex.org:8080/live/36254571/3526987/112971.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" group-title="MOVIES",GOLDMINES
+http://opplex.org:8080/live/36254571/3526987/112972.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" group-title="MOVIES",GOLDMINES BOLLYWOOD
+http://opplex.org:8080/live/36254571/3526987/112973.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD National" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="ENTERTAINMENT",DD National
+http://opplex.org:8080/live/36254571/3526987/112975.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/ZeeTVCanadaLogo.png" group-title="ENTERTAINMENT",ZEE TV CANADA
+http://opplex.org:8080/live/36254571/3526987/112976.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR UTSAV" tvg-logo="https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg" group-title="ENTERTAINMENT",STAR UTSAV
+http://opplex.org:8080/live/36254571/3526987/112977.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHAMAAL TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ENTERTAINMENT",DHAMAAL TV
+http://opplex.org:8080/live/36254571/3526987/112978.ts
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="Sony Wah" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="ENTERTAINMENT",Sony Wah
+http://opplex.org:8080/live/36254571/3526987/112979.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Colors-Cineplex-Bollywood.png" group-title="MOVIES",Colors Cineplex Bollywood
+http://opplex.org:8080/live/36254571/3526987/112983.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="MOVIES",MBC BOLLYWOOD
+http://opplex.org:8080/live/36254571/3526987/112984.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEM BOLLYWOOD" tvg-logo="" group-title="MOVIES",GEM BOLLYWOOD
+http://opplex.org:8080/live/36254571/3526987/112986.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dabangg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Dabangg-TV_logo.jpg" group-title="ENTERTAINMENT",Dabangg
+http://opplex.org:8080/live/36254571/3526987/206270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",Zee Cinema SD
+http://opplex.org:8080/live/36254571/3526987/206271.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES ACTIVE FHD" tvg-logo="https://www.dishtv.in/Images/Active-Services/CineActivelogo.png" group-title="MOVIES",MOVIES ACTIVE FHD
+http://opplex.org:8080/live/36254571/3526987/206276.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE AFLAM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" group-title="ENTERTAINMENT",ZEE AFLAM
+http://opplex.org:8080/live/36254571/3526987/206277.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" group-title="ENTERTAINMENT",ZEE Bollywood
+http://opplex.org:8080/live/36254571/3526987/207200.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="ENGLISH MOVIES",Star World HD
+http://opplex.org:8080/live/36254571/3526987/66211.ts
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies FHD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="ENGLISH MOVIES",Star Movies FHD
+http://opplex.org:8080/live/36254571/3526987/66213.ts
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="ENGLISH MOVIES",Sony Pix FHD
+http://opplex.org:8080/live/36254571/3526987/66224.ts
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="&Prive FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="ENGLISH MOVIES",&Prive FHD
+http://opplex.org:8080/live/36254571/3526987/66228.ts
+#EXTINF:-1 tvg-id="axnhd.in" tvg-name="HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="ENGLISH MOVIES",HBO HD
+http://opplex.org:8080/live/36254571/3526987/66229.ts
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Flix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="ENGLISH MOVIES",& Flix FHD
+http://opplex.org:8080/live/36254571/3526987/66236.ts
+#EXTINF:-1 tvg-id="" tvg-name="& Explor FHD" tvg-logo="" group-title="ENGLISH MOVIES",& Explor FHD
+http://opplex.org:8080/live/36254571/3526987/66241.ts
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="MNX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="ENGLISH MOVIES",MNX FHD
+http://opplex.org:8080/live/36254571/3526987/66266.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now FHD" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="ENGLISH MOVIES",Movies Now FHD
+http://opplex.org:8080/live/36254571/3526987/66271.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBO HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="ENTERTAINMENT",BBO HD
+http://opplex.org:8080/live/36254571/3526987/66277.ts
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="Fox Life FHD" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" group-title="ENGLISH MOVIES",Fox Life FHD
+http://opplex.org:8080/live/36254571/3526987/66278.ts
+#EXTINF:-1 tvg-id="romedynowhdin.in" tvg-name="Romedy Now" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" group-title="ENGLISH MOVIES",Romedy Now
+http://opplex.org:8080/live/36254571/3526987/66282.ts
+#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="Zee Cafe HD" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="ENGLISH MOVIES",Zee Cafe HD
+http://opplex.org:8080/live/36254571/3526987/66287.ts
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="ENGLISH MOVIES",Star Movies Select HD
+http://opplex.org:8080/live/36254571/3526987/66315.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bhojpuri_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png" group-title="ENTERTAINMENT",Bhojpuri_Cinema
+http://opplex.org:8080/live/36254571/3526987/269091.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESbhojpuri.jpg" group-title="MOVIES",GOLDMINES MOVIES
+http://opplex.org:8080/live/36254571/3526987/275337.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBO CLASSIC" tvg-logo="" group-title="ENTERTAINMENT",BBO CLASSIC
+http://opplex.org:8080/live/36254571/3526987/308228.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 18" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 18
+http://opplex.org:8080/live/36254571/3526987/362865.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 19" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 19
+http://opplex.org:8080/live/36254571/3526987/362866.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 20" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 20
+http://opplex.org:8080/live/36254571/3526987/362867.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 21" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 21
+http://opplex.org:8080/live/36254571/3526987/362868.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 01" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 01
+http://opplex.org:8080/live/36254571/3526987/219498.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 02" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 02
+http://opplex.org:8080/live/36254571/3526987/270503.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 03" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 03
+http://opplex.org:8080/live/36254571/3526987/270504.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 04" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 04
+http://opplex.org:8080/live/36254571/3526987/270505.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 05" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 05
+http://opplex.org:8080/live/36254571/3526987/270506.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 06" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 06
+http://opplex.org:8080/live/36254571/3526987/270507.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 07" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 07
+http://opplex.org:8080/live/36254571/3526987/270508.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 08" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 08
+http://opplex.org:8080/live/36254571/3526987/270509.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 09" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 09
+http://opplex.org:8080/live/36254571/3526987/270510.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 10" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 10
+http://opplex.org:8080/live/36254571/3526987/270511.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 11" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 11
+http://opplex.org:8080/live/36254571/3526987/270512.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 12" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 12
+http://opplex.org:8080/live/36254571/3526987/270513.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 13" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 13
+http://opplex.org:8080/live/36254571/3526987/270514.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 14" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 14
+http://opplex.org:8080/live/36254571/3526987/270515.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 15" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 15
+http://opplex.org:8080/live/36254571/3526987/270516.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 16" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 16
+http://opplex.org:8080/live/36254571/3526987/270517.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 17" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 17
+http://opplex.org:8080/live/36254571/3526987/270518.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOC | NAT GEO WILD Safari" tvg-logo="" group-title="DOCUMENTARY",DOC | NAT GEO WILD Safari
+http://opplex.org:8080/live/36254571/3526987/363003.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOC | Nat Geo Wild and Worlds Deadliest" tvg-logo="" group-title="DOCUMENTARY",DOC | Nat Geo Wild and Worlds Deadliest
+http://opplex.org:8080/live/36254571/3526987/363004.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOC | Nat Geo Wild Newest Clips" tvg-logo="" group-title="DOCUMENTARY",DOC | Nat Geo Wild Newest Clips
+http://opplex.org:8080/live/36254571/3526987/363005.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOC | Nat Geo Wild NEWS" tvg-logo="" group-title="DOCUMENTARY",DOC | Nat Geo Wild NEWS
+http://opplex.org:8080/live/36254571/3526987/363006.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOC | Wildlife HINDI" tvg-logo="" group-title="DOCUMENTARY",DOC | Wildlife HINDI
+http://opplex.org:8080/live/36254571/3526987/363002.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dangal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Dangal-2.jpg" group-title="ENTERTAINMENT",Dangal 2
+http://opplex.org:8080/live/36254571/3526987/356002.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dangal" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/fe1331a5-f411-46a5-a24c-3af5172a60dc/2558617115/dangal-tv-live-series-hints-logo" group-title="ENTERTAINMENT",Dangal
+http://opplex.org:8080/live/36254571/3526987/355655.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="http://b1g.fun/logos2/dhinchaak2.jpg" group-title="MOVIES",DHINCHAAK
+http://opplex.org:8080/live/36254571/3526987/374980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Manoranjan Grand" tvg-logo="http://b1g.fun/logos2/manoranjan_grand.jpg" group-title="ENTERTAINMENT",Manoranjan Grand
+http://opplex.org:8080/live/36254571/3526987/355999.ts
+#EXTINF:-1 tvg-id="" tvg-name="B4U Bhojpuri" tvg-logo="" group-title="ENTERTAINMENT",B4U Bhojpuri
+http://opplex.org:8080/live/36254571/3526987/355988.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo TV" tvg-logo="" group-title="ENTERTAINMENT",Shemaroo TV
+http://opplex.org:8080/live/36254571/3526987/355809.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity FHD" tvg-logo="" group-title="ENTERTAINMENT",Colors Infinity FHD
+http://opplex.org:8080/live/36254571/3526987/355571.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Punjabi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI",PTC Punjabi
+http://opplex.org:8080/live/36254571/3526987/244362.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pop Pataka HD" tvg-logo="" group-title="PUNJABI",Pop Pataka HD
+http://opplex.org:8080/live/36254571/3526987/244363.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brit Asia" tvg-logo="" group-title="PUNJABI",Brit Asia
+http://opplex.org:8080/live/36254571/3526987/244364.ts
+#EXTINF:-1 tvg-id="" tvg-name="MH1 Prime" tvg-logo="" group-title="PUNJABI",MH1 Prime
+http://opplex.org:8080/live/36254571/3526987/244365.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Gold" tvg-logo="" group-title="PUNJABI",PTC Gold
+http://opplex.org:8080/live/36254571/3526987/244366.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sangat TV" tvg-logo="" group-title="PUNJABI",Sangat TV
+http://opplex.org:8080/live/36254571/3526987/244367.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Chak De" tvg-logo="" group-title="PUNJABI",PTC Chak De
+http://opplex.org:8080/live/36254571/3526987/244368.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jus Punjabi" tvg-logo="" group-title="PUNJABI",Jus Punjabi
+http://opplex.org:8080/live/36254571/3526987/244369.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC News" tvg-logo="" group-title="PUNJABI",PTC News
+http://opplex.org:8080/live/36254571/3526987/244370.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pitara" tvg-logo="" group-title="PUNJABI",Pitara
+http://opplex.org:8080/live/36254571/3526987/244371.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desi Channel" tvg-logo="" group-title="PUNJABI",Desi Channel
+http://opplex.org:8080/live/36254571/3526987/244372.ts
+#EXTINF:-1 tvg-id="" tvg-name="HINDI_Chakde TV HD" tvg-logo="" group-title="PUNJABI",HINDI_Chakde TV HD
+http://opplex.org:8080/live/36254571/3526987/244373.ts
+#EXTINF:-1 tvg-id="" tvg-name="mh1_Shraddha" tvg-logo="" group-title="PUNJABI",mh1_Shraddha
+http://opplex.org:8080/live/36254571/3526987/244374.ts
+#EXTINF:-1 tvg-id="" tvg-name="Living_India_News" tvg-logo="" group-title="PUNJABI",Living_India_News
+http://opplex.org:8080/live/36254571/3526987/244375.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUSOne" tvg-logo="" group-title="PUNJABI",JUSOne
+http://opplex.org:8080/live/36254571/3526987/244376.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUS24x7" tvg-logo="" group-title="PUNJABI",JUS24x7
+http://opplex.org:8080/live/36254571/3526987/244377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chardikla_Time_TV" tvg-logo="" group-title="PUNJABI",Chardikla_Time_TV
+http://opplex.org:8080/live/36254571/3526987/244378.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Simran" tvg-logo="" group-title="PUNJABI",PTC Simran
+http://opplex.org:8080/live/36254571/3526987/244379.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hulchul TV" tvg-logo="" group-title="PUNJABI",Hulchul TV
+http://opplex.org:8080/live/36254571/3526987/244380.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Dhol" tvg-logo="" group-title="PUNJABI",PTC Dhol
+http://opplex.org:8080/live/36254571/3526987/244381.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Music" tvg-logo="" group-title="PUNJABI",PTC Music
+http://opplex.org:8080/live/36254571/3526987/244382.ts
+#EXTINF:-1 tvg-id="" tvg-name="Balle Balle" tvg-logo="" group-title="PUNJABI",Balle Balle
+http://opplex.org:8080/live/36254571/3526987/244383.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wah Punjabi" tvg-logo="" group-title="PUNJABI",Wah Punjabi
+http://opplex.org:8080/live/36254571/3526987/244384.ts
+#EXTINF:-1 tvg-id="" tvg-name="World Punjab" tvg-logo="" group-title="PUNJABI",World Punjab
+http://opplex.org:8080/live/36254571/3526987/244385.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gurkebaani" tvg-logo="" group-title="PUNJABI",Gurkebaani
+http://opplex.org:8080/live/36254571/3526987/244386.ts
+#EXTINF:-1 tvg-id="" tvg-name="Garv Gurbani" tvg-logo="" group-title="PUNJABI",Garv Gurbani
+http://opplex.org:8080/live/36254571/3526987/244387.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gaunda Punjab TV" tvg-logo="" group-title="PUNJABI",Gaunda Punjab TV
+http://opplex.org:8080/live/36254571/3526987/244388.ts
+#EXTINF:-1 tvg-id="" tvg-name="Only Music" tvg-logo="" group-title="PUNJABI",Only Music
+http://opplex.org:8080/live/36254571/3526987/244389.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV 24" tvg-logo="" group-title="PUNJABI",ITV 24
+http://opplex.org:8080/live/36254571/3526987/244390.ts
+#EXTINF:-1 tvg-id="" tvg-name="SWAG SADDA VAKRAA" tvg-logo="" group-title="PUNJABI",SWAG SADDA VAKRAA
+http://opplex.org:8080/live/36254571/3526987/244391.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC News (Sling)" tvg-logo="" group-title="PUNJABI",PTC News (Sling)
+http://opplex.org:8080/live/36254571/3526987/244392.ts
+#EXTINF:-1 tvg-id="" tvg-name="7X Music HD" tvg-logo="" group-title="PUNJABI",7X Music HD
+http://opplex.org:8080/live/36254571/3526987/244393.ts
+#EXTINF:-1 tvg-id="" tvg-name="Punjab Plus HD" tvg-logo="" group-title="PUNJABI",Punjab Plus HD
+http://opplex.org:8080/live/36254571/3526987/244394.ts
+#EXTINF:-1 tvg-id="" tvg-name="News Only" tvg-logo="" group-title="PUNJABI",News Only
+http://opplex.org:8080/live/36254571/3526987/244395.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sri Patna Sahib" tvg-logo="" group-title="PUNJABI",Sri Patna Sahib
+http://opplex.org:8080/live/36254571/3526987/244396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Punjab1 TV" tvg-logo="" group-title="PUNJABI",Punjab1 TV
+http://opplex.org:8080/live/36254571/3526987/244397.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sangat TV" tvg-logo="" group-title="PUNJABI",Sangat TV
+http://opplex.org:8080/live/36254571/3526987/244398.ts
+#EXTINF:-1 tvg-id="" tvg-name="Punjab Plus HD" tvg-logo="" group-title="PUNJABI",Punjab Plus HD
+http://opplex.org:8080/live/36254571/3526987/244399.ts
+#EXTINF:-1 tvg-id="" tvg-name="Steelbird Music" tvg-logo="" group-title="PUNJABI",Steelbird Music
+http://opplex.org:8080/live/36254571/3526987/244400.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rangrez TV" tvg-logo="" group-title="PUNJABI",Rangrez TV
+http://opplex.org:8080/live/36254571/3526987/244401.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hamdard TV" tvg-logo="" group-title="PUNJABI",Hamdard TV
+http://opplex.org:8080/live/36254571/3526987/244402.ts
+#EXTINF:-1 tvg-id="" tvg-name="Parvasi TV" tvg-logo="" group-title="PUNJABI",Parvasi TV
+http://opplex.org:8080/live/36254571/3526987/244403.ts
+#EXTINF:-1 tvg-id="" tvg-name="PBN Music" tvg-logo="" group-title="PUNJABI",PBN Music
+http://opplex.org:8080/live/36254571/3526987/244404.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jus Punjabi ( SLING )" tvg-logo="" group-title="PUNJABI",Jus Punjabi ( SLING )
+http://opplex.org:8080/live/36254571/3526987/244405.ts
+#EXTINF:-1 tvg-id="" tvg-name="Garv Punjab ( SLING )" tvg-logo="" group-title="PUNJABI",Garv Punjab ( SLING )
+http://opplex.org:8080/live/36254571/3526987/244406.ts
+#EXTINF:-1 tvg-id="" tvg-name="Garv Punjab" tvg-logo="" group-title="PUNJABI",Garv Punjab
+http://opplex.org:8080/live/36254571/3526987/244407.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Punjabi ( SLING )" tvg-logo="" group-title="PUNJABI",PTC Punjabi ( SLING )
+http://opplex.org:8080/live/36254571/3526987/244408.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Simran ( SLING )" tvg-logo="" group-title="PUNJABI",PTC Simran ( SLING )
+http://opplex.org:8080/live/36254571/3526987/244409.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Punjabi Gold ( SLING )" tvg-logo="" group-title="PUNJABI",PTC Punjabi Gold ( SLING )
+http://opplex.org:8080/live/36254571/3526987/244410.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Dhol TV ( SLING )" tvg-logo="" group-title="PUNJABI",PTC Dhol TV ( SLING )
+http://opplex.org:8080/live/36254571/3526987/244411.ts
+#EXTINF:-1 tvg-id="" tvg-name="News18 Punjab Haryana HP" tvg-logo="" group-title="PUNJABI",News18 Punjab Haryana HP
+http://opplex.org:8080/live/36254571/3526987/244413.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD Punjabi" tvg-logo="" group-title="PUNJABI",DD Punjabi
+http://opplex.org:8080/live/36254571/3526987/244414.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Punjabi" tvg-logo="" group-title="PUNJABI",Zee Punjabi
+http://opplex.org:8080/live/36254571/3526987/244415.ts
+#EXTINF:-1 tvg-id="" tvg-name="Etc Punjabi" tvg-logo="" group-title="PUNJABI",Etc Punjabi
+http://opplex.org:8080/live/36254571/3526987/244416.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Punjab Haryana Himachal Pradesh" tvg-logo="" group-title="PUNJABI",Zee Punjab Haryana Himachal Pradesh
+http://opplex.org:8080/live/36254571/3526987/244417.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC Punjabi Gold" tvg-logo="" group-title="PUNJABI",PTC Punjabi Gold
+http://opplex.org:8080/live/36254571/3526987/355565.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fateh TV" tvg-logo="" group-title="PUNJABI",Fateh TV
+http://opplex.org:8080/live/36254571/3526987/355695.ts
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Maa Movies" tvg-logo="" group-title="TELUGU D2H",Maa Movies
+http://opplex.org:8080/live/36254571/3526987/250841.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR MAA MOVIES FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png" group-title="TELUGU D2H",STAR MAA MOVIES FHD
+http://opplex.org:8080/live/36254571/3526987/381117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maa HD" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg" group-title="TELUGU D2H",Maa HD
+http://opplex.org:8080/live/36254571/3526987/250843.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR MAA FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png" group-title="TELUGU D2H",STAR MAA FHD
+http://opplex.org:8080/live/36254571/3526987/381103.ts
+#EXTINF:-1 tvg-id="maagold.in" tvg-name="STAR MAA GOLD" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" group-title="TELUGU D2H",STAR MAA GOLD
+http://opplex.org:8080/live/36254571/3526987/250845.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TELUGU" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" group-title="TELUGU D2H",ZEE TELUGU
+http://opplex.org:8080/live/36254571/3526987/250844.ts
+#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="GEMINI movies" tvg-logo="http://openboxv8s.com/india/sun_gemini_movies.png" group-title="TELUGU D2H",GEMINI movies
+http://opplex.org:8080/live/36254571/3526987/250846.ts
+#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI comedy" tvg-logo="http://openboxv8s.com/india/sun_gemini_comedy.png" group-title="TELUGU D2H",GEMINI comedy
+http://opplex.org:8080/live/36254571/3526987/250847.ts
+#EXTINF:-1 tvg-id="geminilife.in" tvg-name="Gemini life" tvg-logo="http://openboxv8s.com/india/sun_gemini_life.jpg" group-title="TELUGU D2H",Gemini life
+http://opplex.org:8080/live/36254571/3526987/250848.ts
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" group-title="TELUGU D2H",Etv HD
+http://opplex.org:8080/live/36254571/3526987/250842.ts
+#EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" group-title="TELUGU D2H",ETV PLUS
+http://opplex.org:8080/live/36254571/3526987/250849.ts
+#EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="http://openboxv8s.com/india/etv_in_life.png" group-title="TELUGU D2H",ETV LIFE
+http://opplex.org:8080/live/36254571/3526987/250850.ts
+#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV Cinema" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png" group-title="TELUGU D2H",ETV Cinema
+http://opplex.org:8080/live/36254571/3526987/250851.ts
+#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC" tvg-logo="http://openboxv8s.com/india/sun_gemini_music.png" group-title="TELUGU D2H",GEMINI MUSIC
+http://opplex.org:8080/live/36254571/3526987/250852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gemini HD" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" group-title="TELUGU D2H",Gemini HD
+http://opplex.org:8080/live/36254571/3526987/250855.ts
+#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="Raj Musix" tvg-logo="http://openboxv8s.com/india/raj_musix_telugu.jpg" group-title="TELUGU D2H",Raj Musix
+http://opplex.org:8080/live/36254571/3526987/250853.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Telugu" tvg-logo="http://fastplayer.uk/images/5cf1335aa3209e809616340c22c05a49.png" group-title="TELUGU D2H",TV9 Telugu
+http://opplex.org:8080/live/36254571/3526987/250854.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETV ABHIRUCHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Abhiruchi.png" group-title="TELUGU D2H",ETV ABHIRUCHI
+http://opplex.org:8080/live/36254571/3526987/381112.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMALU HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png" group-title="TELUGU D2H",ZEE CINEMALU HD
+http://opplex.org:8080/live/36254571/3526987/381108.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-BBC-Earth-HD.png" group-title="TELUGU D2H",SONY BBC EARTH FHD
+http://opplex.org:8080/live/36254571/3526987/381102.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png" group-title="TELUGU D2H",NAT GEO WILD FHD
+http://opplex.org:8080/live/36254571/3526987/381099.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel-1.png" group-title="TELUGU D2H",DISCOVERY CHANNEL
+http://opplex.org:8080/live/36254571/3526987/381095.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png" group-title="TELUGU D2H",CARTOON NETWORK
+http://opplex.org:8080/live/36254571/3526987/381094.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD.png" group-title="TELUGU D2H",SONY PIX FHD
+http://opplex.org:8080/live/36254571/3526987/381093.ts
+#EXTINF:-1 tvg-id="" tvg-name="10 TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/10-TV.png" group-title="TELUGU D2H",10 TV
+http://opplex.org:8080/live/36254571/3526987/381088.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News.png" group-title="TELUGU D2H",RAJ NEWS
+http://opplex.org:8080/live/36254571/3526987/381086.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABN ANDHRA JYOTHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Abn-Andhra.png" group-title="TELUGU D2H",ABN ANDHRA JYOTHI
+http://opplex.org:8080/live/36254571/3526987/381085.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV5-News.png" group-title="TELUGU D2H",TV5 NEWS
+http://opplex.org:8080/live/36254571/3526987/381084.ts
+#EXTINF:-1 tvg-id="" tvg-name="VANITHA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vanitha.png" group-title="TELUGU D2H",VANITHA
+http://opplex.org:8080/live/36254571/3526987/381083.ts
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO YUVA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Studio-Yuva.png" group-title="TELUGU D2H",STUDIO YUVA
+http://opplex.org:8080/live/36254571/3526987/381180.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 18 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png" group-title="TELUGU D2H",HISTORY 18 FHD
+http://opplex.org:8080/live/36254571/3526987/381179.ts
+#EXTINF:-1 tvg-id="" tvg-name="VISSA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vissa-TV.png" group-title="TELUGU D2H",VISSA TV
+http://opplex.org:8080/live/36254571/3526987/381176.ts
+#EXTINF:-1 tvg-id="" tvg-name="T NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/T-News.png" group-title="TELUGU D2H",T NEWS
+http://opplex.org:8080/live/36254571/3526987/381171.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD SAPTAGIRI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Saptagiri.png" group-title="TELUGU D2H",DD SAPTAGIRI
+http://opplex.org:8080/live/36254571/3526987/381166.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETV ANDHRA PRADESH" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Andhra-Pradesh.png" group-title="TELUGU D2H",ETV ANDHRA PRADESH
+http://opplex.org:8080/live/36254571/3526987/381164.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETV TELANGANA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Telangana.png" group-title="TELUGU D2H",ETV TELANGANA
+http://opplex.org:8080/live/36254571/3526987/381159.ts
+#EXTINF:-1 tvg-id="" tvg-name="INSAKSHI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sakshi-TV.png" group-title="TELUGU D2H",INSAKSHI TV
+http://opplex.org:8080/live/36254571/3526987/381154.ts
+#EXTINF:-1 tvg-id="" tvg-name="TATA PLAY FITNESS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Fitness.png" group-title="TELUGU D2H",TATA PLAY FITNESS
+http://opplex.org:8080/live/36254571/3526987/381147.ts
+#EXTINF:-1 tvg-id="" tvg-name="TATA PLAY HOLLYWOOD LOCAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Hollywood-Local.png" group-title="TELUGU D2H",TATA PLAY HOLLYWOOD LOCAL
+http://opplex.org:8080/live/36254571/3526987/381146.ts
+#EXTINF:-1 tvg-id="" tvg-name="TATA PLAY ENGLISH IN TELUGU" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-English-in-Telugu.png" group-title="TELUGU D2H",TATA PLAY ENGLISH IN TELUGU
+http://opplex.org:8080/live/36254571/3526987/381145.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-HD-World.png" group-title="TELUGU D2H",DISCOVERY WORLD FHD
+http://opplex.org:8080/live/36254571/3526987/381141.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png" group-title="TELUGU D2H",NATIONAL GEOGRAPHIC FHD
+http://opplex.org:8080/live/36254571/3526987/381139.ts
+#EXTINF:-1 tvg-id="" tvg-name="TATA PLAY TOONS+" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons.png" group-title="TELUGU D2H",TATA PLAY TOONS+
+http://opplex.org:8080/live/36254571/3526987/381130.ts
+#EXTINF:-1 tvg-id="" tvg-name="GUBBARE" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gubbare.png" group-title="TELUGU D2H",GUBBARE
+http://opplex.org:8080/live/36254571/3526987/381129.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV TELUGU" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NTV.png" group-title="TELUGU D2H",NTV TELUGU
+http://opplex.org:8080/live/36254571/3526987/381126.ts
+#EXTINF:-1 tvg-id="" tvg-name="V6 NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/V6.png" group-title="TELUGU D2H",V6 NEWS
+http://opplex.org:8080/live/36254571/3526987/381124.ts
+#EXTINF:-1 tvg-id="" tvg-name="4TV NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/4tv-News.png" group-title="TELUGU D2H",4TV NEWS
+http://opplex.org:8080/live/36254571/3526987/381121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kushi TV" tvg-logo="" group-title="TELUGU D2H",Kushi TV
+http://opplex.org:8080/live/36254571/3526987/382286.ts
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="" group-title="TELUGU D2H",iNews
+http://opplex.org:8080/live/36254571/3526987/382285.ts
+#EXTINF:-1 tvg-id="" tvg-name="India Now" tvg-logo="" group-title="TELUGU D2H",India Now
+http://opplex.org:8080/live/36254571/3526987/382284.ts
+#EXTINF:-1 tvg-id="" tvg-name="HMTV" tvg-logo="" group-title="TELUGU D2H",HMTV
+http://opplex.org:8080/live/36254571/3526987/382283.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swatantra News" tvg-logo="" group-title="TELUGU D2H",Swatantra News
+http://opplex.org:8080/live/36254571/3526987/382282.ts
+#EXTINF:-1 tvg-id="" tvg-name="Subhavartha_TV" tvg-logo="" group-title="TELUGU D2H",Subhavartha_TV
+http://opplex.org:8080/live/36254571/3526987/382281.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio One" tvg-logo="" group-title="TELUGU D2H",Studio One
+http://opplex.org:8080/live/36254571/3526987/382280.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Telugu" tvg-logo="" group-title="TELUGU D2H",Sonic Telugu
+http://opplex.org:8080/live/36254571/3526987/382279.ts
+#EXTINF:-1 tvg-id="" tvg-name="CVR News" tvg-logo="" group-title="TELUGU D2H",CVR News
+http://opplex.org:8080/live/36254571/3526987/382278.ts
+#EXTINF:-1 tvg-id="" tvg-name="CVR Health" tvg-logo="" group-title="TELUGU D2H",CVR Health
+http://opplex.org:8080/live/36254571/3526987/382277.ts
+#EXTINF:-1 tvg-id="" tvg-name="CVR English News" tvg-logo="" group-title="TELUGU D2H",CVR English News
+http://opplex.org:8080/live/36254571/3526987/382276.ts
+#EXTINF:-1 tvg-id="" tvg-name="CN HD+ Telugu" tvg-logo="" group-title="TELUGU D2H",CN HD+ Telugu
+http://opplex.org:8080/live/36254571/3526987/382275.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="TELUGU D2H",CARTOON NETWORK
+http://opplex.org:8080/live/36254571/3526987/382274.ts
+#EXTINF:-1 tvg-id="" tvg-name="Calvary TV" tvg-logo="" group-title="TELUGU D2H",Calvary TV
+http://opplex.org:8080/live/36254571/3526987/382273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big TV" tvg-logo="" group-title="TELUGU D2H",Big TV
+http://opplex.org:8080/live/36254571/3526987/382272.ts
+#EXTINF:-1 tvg-id="" tvg-name="99 TV" tvg-logo="" group-title="TELUGU D2H",99 TV
+http://opplex.org:8080/live/36254571/3526987/382271.ts
+#EXTINF:-1 tvg-id="" tvg-name="PMC" tvg-logo="" group-title="TELUGU D2H",PMC
+http://opplex.org:8080/live/36254571/3526987/382270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sri Venkateshwar Bhakti   ( Spiritual )" tvg-logo="" group-title="TELUGU D2H",Sri Venkateshwar Bhakti   ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382294.ts
+#EXTINF:-1 tvg-id="" tvg-name="IHindu Dharmam  ( Spiritual )" tvg-logo="" group-title="TELUGU D2H",IHindu Dharmam  ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aastha Telugu    ( Spiritual )" tvg-logo="" group-title="TELUGU D2H",Aastha Telugu    ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382292.ts
+#EXTINF:-1 tvg-id="" tvg-name="OM CVR  ( Spiritual )" tvg-logo="" group-title="TELUGU D2H",OM CVR  ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382291.ts
+#EXTINF:-1 tvg-id="" tvg-name="SVBC2  ( Spiritual )" tvg-logo="" group-title="TELUGU D2H",SVBC2  ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Krishna Vani ( Spiritual )" tvg-logo="" group-title="TELUGU D2H",Krishna Vani ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382289.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bhakti TV   ( Spiritual )" tvg-logo="" group-title="TELUGU D2H",Bhakti TV   ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aradana TV  ( Spiritual )" tvg-logo="" group-title="TELUGU D2H",Aradana TV  ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382287.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUTIYA THALAMURAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Thalaimurai.png" group-title="TAMIL",PUTIYA THALAMURAI
+http://opplex.org:8080/live/36254571/3526987/381078.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAYA MAX" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Max.png" group-title="TAMIL",JAYA MAX
+http://opplex.org:8080/live/36254571/3526987/381076.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Tamil-HD.png" group-title="TAMIL",COLORS HD
+http://opplex.org:8080/live/36254571/3526987/381073.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ DIGITAL PLUS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Digital-Plus.png" group-title="TAMIL",RAJ DIGITAL PLUS
+http://opplex.org:8080/live/36254571/3526987/381068.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Makkal-TV.png" group-title="TAMIL",MAKKAL TV
+http://opplex.org:8080/live/36254571/3526987/381067.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD PODHIGAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Podhigal.png" group-title="TAMIL",DD PODHIGAI
+http://opplex.org:8080/live/36254571/3526987/381065.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLIMER NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png" group-title="TAMIL",POLIMER NEWS
+http://opplex.org:8080/live/36254571/3526987/381062.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAYA TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-TV-HD.png" group-title="TAMIL",JAYA TV FHD
+http://opplex.org:8080/live/36254571/3526987/381061.ts
+#EXTINF:-1 tvg-id="" tvg-name="Janam Tamil" tvg-logo="" group-title="TAMIL",Janam Tamil
+http://opplex.org:8080/live/36254571/3526987/381058.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS TAMIL 24x7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-Tamil-24x7-1.png" group-title="TAMIL",NEWS TAMIL 24x7
+http://opplex.org:8080/live/36254571/3526987/381055.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/MegaTV.png" group-title="TAMIL",MEGA TV
+http://opplex.org:8080/live/36254571/3526987/381047.ts
+#EXTINF:-1 tvg-id="" tvg-name="VASANTH TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vasanth-TV.png" group-title="TAMIL",VASANTH TV
+http://opplex.org:8080/live/36254571/3526987/381046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jaya TV HD" tvg-logo="" group-title="TAMIL",Jaya TV HD
+http://opplex.org:8080/live/36254571/3526987/381044.ts
+#EXTINF:-1 tvg-id="" tvg-name="MADHA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Madha-TV.png" group-title="TAMIL",MADHA TV
+http://opplex.org:8080/live/36254571/3526987/381042.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAMBIKKAI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nambikkai-TV.png" group-title="TAMIL",NAMBIKKAI TV
+http://opplex.org:8080/live/36254571/3526987/381041.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEPPERS TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Peppers.png" group-title="TAMIL",PEPPERS TV
+http://opplex.org:8080/live/36254571/3526987/381040.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS18 TAMIL NADU" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Tamil-Nadu-1.png" group-title="TAMIL",NEWS18 TAMIL NADU
+http://opplex.org:8080/live/36254571/3526987/381032.ts
+#EXTINF:-1 tvg-id="" tvg-name="SATHIYAM TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sathiyam-TV.png" group-title="TAMIL",SATHIYAM TV
+http://opplex.org:8080/live/36254571/3526987/381030.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS J" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-J.png" group-title="TAMIL",NEWS J
+http://opplex.org:8080/live/36254571/3526987/381029.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOOD TIMES" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Goodtimes.png" group-title="TAMIL",GOOD TIMES
+http://opplex.org:8080/live/36254571/3526987/381026.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel.png" group-title="TAMIL",DISCOVERY CHANNEL
+http://opplex.org:8080/live/36254571/3526987/381020.ts
+#EXTINF:-1 tvg-id="" tvg-name="CN HD+" tvg-logo="" group-title="TAMIL",CN HD+
+http://opplex.org:8080/live/36254571/3526987/381019.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Disney-Junior.png" group-title="TAMIL",DISNEY JUNIOR
+http://opplex.org:8080/live/36254571/3526987/381018.ts
+#EXTINF:-1 tvg-id="" tvg-name="TATA PLAY TOONS+" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons-copy.png" group-title="TAMIL",TATA PLAY TOONS+
+http://opplex.org:8080/live/36254571/3526987/381017.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLIMER TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png" group-title="TAMIL",POLIMER TV
+http://opplex.org:8080/live/36254571/3526987/381015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tamil One" tvg-logo="" group-title="TAMIL",Tamil One
+http://opplex.org:8080/live/36254571/3526987/381014.ts
+#EXTINF:-1 tvg-id="" tvg-name="THANTHI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Thanthi-TV.png" group-title="TAMIL",THANTHI TV
+http://opplex.org:8080/live/36254571/3526987/381012.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEITHIGAL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Seithigal-TV.png" group-title="TAMIL",SEITHIGAL TV
+http://opplex.org:8080/live/36254571/3526987/381011.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUTHIYA THALAIMURAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Thalaimurai.png" group-title="TAMIL",PUTHIYA THALAIMURAI
+http://opplex.org:8080/live/36254571/3526987/381010.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 7 TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-7-Tamil.png" group-title="TAMIL",NEWS 7 TAMIL
+http://opplex.org:8080/live/36254571/3526987/381009.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISAI ARUVI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Isaiaruvi.png" group-title="TAMIL",ISAI ARUVI
+http://opplex.org:8080/live/36254571/3526987/381008.ts
+#EXTINF:-1 tvg-id="" tvg-name="TTN 24 TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TTN-24.png" group-title="TAMIL",TTN 24 TV
+http://opplex.org:8080/live/36254571/3526987/381007.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATHAVAN TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Athavan-TV.png" group-title="TAMIL",ATHAVAN TV
+http://opplex.org:8080/live/36254571/3526987/381006.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUTHU YUGAM TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Yugam.png" group-title="TAMIL",PUTHU YUGAM TV
+http://opplex.org:8080/live/36254571/3526987/381005.ts
+#EXTINF:-1 tvg-id="" tvg-name="VENDHAR TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vendhar.png" group-title="TAMIL",VENDHAR TV
+http://opplex.org:8080/live/36254571/3526987/381004.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBC ISAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Isai.png" group-title="TAMIL",IBC ISAI
+http://opplex.org:8080/live/36254571/3526987/381003.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBC MUSIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Music.png" group-title="TAMIL",IBC MUSIC
+http://opplex.org:8080/live/36254571/3526987/381002.ts
+#EXTINF:-1 tvg-id="" tvg-name="EET TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TVi.png" group-title="TAMIL",EET TV
+http://opplex.org:8080/live/36254571/3526987/381001.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBC COMEDY" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Comedy.png" group-title="TAMIL",IBC COMEDY
+http://opplex.org:8080/live/36254571/3526987/381000.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBC CANADA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC.png" group-title="TAMIL",IBC CANADA
+http://opplex.org:8080/live/36254571/3526987/380999.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBC TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Tamil.png" group-title="TAMIL",IBC TAMIL
+http://opplex.org:8080/live/36254571/3526987/380998.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHUTTI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest?cb=20190122082451" group-title="TAMIL",CHUTTI TV
+http://opplex.org:8080/live/36254571/3526987/380997.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADITHYA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Adithya-TV.png" group-title="TAMIL",ADITHYA TV
+http://opplex.org:8080/live/36254571/3526987/380995.ts
+#EXTINF:-1 tvg-id="" tvg-name="KALAIGNAR TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png" group-title="TAMIL",KALAIGNAR TV
+http://opplex.org:8080/live/36254571/3526987/380990.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-TV.png" group-title="TAMIL",RAJ TV
+http://opplex.org:8080/live/36254571/3526987/380989.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ MUSIX" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Musix.png" group-title="TAMIL",RAJ MUSIX
+http://opplex.org:8080/live/36254571/3526987/380988.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News-2.png" group-title="TAMIL",RAJ NEWS
+http://opplex.org:8080/live/36254571/3526987/380987.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIRIPPOLI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sirippoli-1.png" group-title="TAMIL",SIRIPPOLI
+http://opplex.org:8080/live/36254571/3526987/380986.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-News.png" group-title="TAMIL",SUN NEWS
+http://opplex.org:8080/live/36254571/3526987/380985.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE THIRAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Thirai.png" group-title="TAMIL",ZEE THIRAI
+http://opplex.org:8080/live/36254571/3526987/380984.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA 24" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mega-24.png" group-title="TAMIL",MEGA 24
+http://opplex.org:8080/live/36254571/3526987/380983.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA MUSIQ" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mega-Musiq.png" group-title="TAMIL",MEGA MUSIQ
+http://opplex.org:8080/live/36254571/3526987/380982.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAYA MOVIE" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Movie.png" group-title="TAMIL",JAYA MOVIE
+http://opplex.org:8080/live/36254571/3526987/380981.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAYA PLUS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Plus.png" group-title="TAMIL",JAYA PLUS
+http://opplex.org:8080/live/36254571/3526987/380980.ts
+#EXTINF:-1 tvg-id="" tvg-name="JOTHI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jothi-TV.png" group-title="TAMIL",JOTHI TV
+http://opplex.org:8080/live/36254571/3526987/380979.ts
+#EXTINF:-1 tvg-id="" tvg-name="D TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/D-Tamil.png" group-title="TAMIL",D TAMIL
+http://opplex.org:8080/live/36254571/3526987/380977.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tamilan Television" tvg-logo="" group-title="TAMIL",Tamilan Television
+http://opplex.org:8080/live/36254571/3526987/380976.ts
+#EXTINF:-1 tvg-id="" tvg-name="MURASU TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Murasu-TV.png" group-title="TAMIL",MURASU TV
+http://opplex.org:8080/live/36254571/3526987/380975.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHITHIRAM TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Chithram.png" group-title="TAMIL",CHITHIRAM TV
+http://opplex.org:8080/live/36254571/3526987/380974.ts
+#EXTINF:-1 tvg-id="" tvg-name="MALAI MURASU SEITHIGAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/MalaiMurasu-Seithigal.png" group-title="TAMIL",MALAI MURASU SEITHIGAL
+http://opplex.org:8080/live/36254571/3526987/380973.ts
+#EXTINF:-1 tvg-id="" tvg-name="7S MUSIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/7S-Music.png" group-title="TAMIL",7S MUSIC
+http://opplex.org:8080/live/36254571/3526987/380972.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tamil-HD.png" group-title="TAMIL",ZEE TAMIL FHD
+http://opplex.org:8080/live/36254571/3526987/380970.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIJAY SUPER" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vijay-Super.png" group-title="TAMIL",VIJAY SUPER
+http://opplex.org:8080/live/36254571/3526987/380969.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN LIFE" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Life.png" group-title="TAMIL",SUN LIFE
+http://opplex.org:8080/live/36254571/3526987/380968.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="TAMIL",SUN TV FHD
+http://opplex.org:8080/live/36254571/3526987/380967.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-BBC-Earth-HD.png" group-title="TAMIL",SONY BBC EARTH FHD
+http://opplex.org:8080/live/36254571/3526987/380966.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic-1.png" group-title="TAMIL",SONIC
+http://opplex.org:8080/live/36254571/3526987/380965.ts
+#EXTINF:-1 tvg-id="" tvg-name="POGO" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Pogo.png" group-title="TAMIL",POGO
+http://opplex.org:8080/live/36254571/3526987/380964.ts
+#EXTINF:-1 tvg-id="" tvg-name="KTV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/KTV-HD.png" group-title="TAMIL",KTV FHD
+http://opplex.org:8080/live/36254571/3526987/380961.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY TV18 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png" group-title="TAMIL",HISTORY TV18 FHD
+http://opplex.org:8080/live/36254571/3526987/380960.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Fox-Life-HD-1.png" group-title="TAMIL",FOX LIFE FHD
+http://opplex.org:8080/live/36254571/3526987/380959.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png" group-title="TAMIL",CARTOON NETWORK
+http://opplex.org:8080/live/36254571/3526987/380956.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Animal-Planet-HD-World.png" group-title="TAMIL",ANIMAL PLANET HD
+http://opplex.org:8080/live/36254571/3526987/380955.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN MUSIC FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Music.png" group-title="TAMIL",SUN MUSIC FHD
+http://opplex.org:8080/live/36254571/3526987/380953.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR VIJAY FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png" group-title="TAMIL",STAR VIJAY FHD
+http://opplex.org:8080/live/36254571/3526987/380952.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBC BHAKTHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Bhakti.png" group-title="TAMIL",IBC BHAKTHI
+http://opplex.org:8080/live/36254571/3526987/380951.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBC SILUVAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/GTA-Tamil-TV.png" group-title="TAMIL",IBC SILUVAI
+http://opplex.org:8080/live/36254571/3526987/380950.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOON TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Moon.png" group-title="TAMIL",MOON TV
+http://opplex.org:8080/live/36254571/3526987/380949.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hosanna" tvg-logo="" group-title="TAMIL",Hosanna
+http://opplex.org:8080/live/36254571/3526987/380946.ts
+#EXTINF:-1 tvg-id="" tvg-name="GTA TAMIL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/GTA-Tamil-TV.png" group-title="TAMIL",GTA TAMIL TV
+http://opplex.org:8080/live/36254571/3526987/380945.ts
+#EXTINF:-1 tvg-id="" tvg-name="VAANAVIL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vaanavil.png" group-title="TAMIL",VAANAVIL TV
+http://opplex.org:8080/live/36254571/3526987/380943.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 TAMIL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/3-Tamil.png" group-title="TAMIL",3 TAMIL TV
+http://opplex.org:8080/live/36254571/3526987/380942.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD Tamil" tvg-logo="" group-title="TAMIL",DD Tamil
+http://opplex.org:8080/live/36254571/3526987/382342.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tunes 6" tvg-logo="" group-title="TAMIL",Tunes 6
+http://opplex.org:8080/live/36254571/3526987/382341.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK TV" tvg-logo="" group-title="TAMIL",MK TV
+http://opplex.org:8080/live/36254571/3526987/382340.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK Music" tvg-logo="" group-title="TAMIL",MK Music
+http://opplex.org:8080/live/36254571/3526987/382339.ts
+#EXTINF:-1 tvg-id="" tvg-name="Madhimugam TV" tvg-logo="" group-title="TAMIL",Madhimugam TV
+http://opplex.org:8080/live/36254571/3526987/382338.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aastha Tamil   ( Spiritual )" tvg-logo="" group-title="TAMIL",Aastha Tamil   ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382343.ts
+#EXTINF:-1 tvg-id="" tvg-name="SVBC   ( Spiritual )" tvg-logo="" group-title="TAMIL",SVBC   ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382345.ts
+#EXTINF:-1 tvg-id="" tvg-name="SVBC3   ( Spiritual )" tvg-logo="" group-title="TAMIL",SVBC3   ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382346.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swasthik TV ( Spiritual )" tvg-logo="" group-title="TAMIL",Swasthik TV ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382344.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Travelxp-Tamil.png" group-title="TAMIL",TRAVEL XP
+http://opplex.org:8080/live/36254571/3526987/380937.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET MIDDLE EAST" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Middle-East.png" group-title="MALAYALAM",ASIANET MIDDLE EAST
+http://opplex.org:8080/live/36254571/3526987/380911.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARIHANT TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Arihant.png" group-title="MALAYALAM",ARIHANT TV
+http://opplex.org:8080/live/36254571/3526987/380921.ts
+#EXTINF:-1 tvg-id="" tvg-name="Asianet 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet.png" group-title="MALAYALAM",Asianet 1
+http://opplex.org:8080/live/36254571/3526987/380881.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET MOVIES" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Movies.png" group-title="MALAYALAM",ASIANET MOVIES
+http://opplex.org:8080/live/36254571/3526987/380864.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-News.png" group-title="MALAYALAM",ASIANET NEWS
+http://opplex.org:8080/live/36254571/3526987/380861.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET PLUS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Plus.png" group-title="MALAYALAM",ASIANET PLUS
+http://opplex.org:8080/live/36254571/3526987/380884.ts
+#EXTINF:-1 tvg-id="" tvg-name="WE TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel-1.png" group-title="MALAYALAM",WE TV
+http://opplex.org:8080/live/36254571/3526987/380873.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR VISION" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Kids.png" group-title="MALAYALAM",STAR VISION
+http://opplex.org:8080/live/36254571/3526987/380874.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAIHIND TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/JaihTV.png" group-title="MALAYALAM",JAIHIND TV
+http://opplex.org:8080/live/36254571/3526987/380887.ts
+#EXTINF:-1 tvg-id="" tvg-name="JANAM TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Janam-TV.png" group-title="MALAYALAM",JANAM TV
+http://opplex.org:8080/live/36254571/3526987/380886.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAIRALI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kairali-TV.png" group-title="MALAYALAM",KAIRALI TV
+http://opplex.org:8080/live/36254571/3526987/380880.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ MUSIX MALAYALAM" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Musix.png" group-title="MALAYALAM",RAJ MUSIX MALAYALAM
+http://opplex.org:8080/live/36254571/3526987/380862.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News.png" group-title="MALAYALAM",RAJ NEWS
+http://opplex.org:8080/live/36254571/3526987/380863.ts
+#EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic.png" group-title="MALAYALAM",One TV
+http://opplex.org:8080/live/36254571/3526987/380875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kairali Arabia" tvg-logo="" group-title="MALAYALAM",Kairali Arabia
+http://opplex.org:8080/live/36254571/3526987/380865.ts
+#EXTINF:-1 tvg-id="" tvg-name="SURYA COMEDY" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Surya-Comedy.png" group-title="MALAYALAM",SURYA COMEDY
+http://opplex.org:8080/live/36254571/3526987/380876.ts
+#EXTINF:-1 tvg-id="" tvg-name="SURYA TV HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Surya.png" group-title="MALAYALAM",SURYA TV HD
+http://opplex.org:8080/live/36254571/3526987/380878.ts
+#EXTINF:-1 tvg-id="" tvg-name="SURYA MUSIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Surya-Music.png" group-title="MALAYALAM",SURYA MUSIC
+http://opplex.org:8080/live/36254571/3526987/380877.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE KERALAM FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Keralam-HD.png" group-title="MALAYALAM",ZEE KERALAM FHD
+http://opplex.org:8080/live/36254571/3526987/380870.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARSHANA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Darshana-TV.png" group-title="MALAYALAM",DARSHANA TV
+http://opplex.org:8080/live/36254571/3526987/380866.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD INDIA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-India-1.png" group-title="MALAYALAM",DD INDIA
+http://opplex.org:8080/live/36254571/3526987/380888.ts
+#EXTINF:-1 tvg-id="" tvg-name="JEEVAN TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jeevan-TV.png" group-title="MALAYALAM",JEEVAN TV
+http://opplex.org:8080/live/36254571/3526987/380892.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAUMUDY TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kaumudy-TV.png" group-title="MALAYALAM",KAUMUDY TV
+http://opplex.org:8080/live/36254571/3526987/380891.ts
+#EXTINF:-1 tvg-id="" tvg-name="KOCHU TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kochu-TV.png" group-title="MALAYALAM",KOCHU TV
+http://opplex.org:8080/live/36254571/3526987/380890.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Magnavision TV" tvg-logo="" group-title="MALAYALAM", Magnavision TV
+http://opplex.org:8080/live/36254571/3526987/380927.ts
+#EXTINF:-1 tvg-id="" tvg-name="POWER VISION" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Powervision.png" group-title="MALAYALAM",POWER VISION
+http://opplex.org:8080/live/36254571/3526987/380872.ts
+#EXTINF:-1 tvg-id="" tvg-name="REPORTER TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Reporter-TV.png" group-title="MALAYALAM",REPORTER TV
+http://opplex.org:8080/live/36254571/3526987/380869.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAFARI CHANNEL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Safari-TV.png" group-title="MALAYALAM",SAFARI CHANNEL
+http://opplex.org:8080/live/36254571/3526987/380871.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMRITA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Amrita-TV.png" group-title="MALAYALAM",AMRITA TV
+http://opplex.org:8080/live/36254571/3526987/380920.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet.png" group-title="MALAYALAM",ASIANET HD
+http://opplex.org:8080/live/36254571/3526987/380913.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD MALAYALAM" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Malayalam.png" group-title="MALAYALAM",DD MALAYALAM
+http://opplex.org:8080/live/36254571/3526987/380923.ts
+#EXTINF:-1 tvg-id="" tvg-name="Manorama News Central" tvg-logo="" group-title="MALAYALAM",Manorama News Central
+http://opplex.org:8080/live/36254571/3526987/380910.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOWER TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Flowers.png" group-title="MALAYALAM",FLOWER TV
+http://opplex.org:8080/live/36254571/3526987/380918.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOD TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/God-TV.png" group-title="MALAYALAM",GOD TV
+http://opplex.org:8080/live/36254571/3526987/380909.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOODNESS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Goodness.png" group-title="MALAYALAM",GOODNESS
+http://opplex.org:8080/live/36254571/3526987/380908.ts
+#EXTINF:-1 tvg-id="" tvg-name="HARVEST TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Harvest-TV.png" group-title="MALAYALAM",HARVEST TV
+http://opplex.org:8080/live/36254571/3526987/380868.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAIRALI NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kairali-News.png" group-title="MALAYALAM",KAIRALI NEWS
+http://opplex.org:8080/live/36254571/3526987/380928.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAPPA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kappa-TV.png" group-title="MALAYALAM",KAPPA TV
+http://opplex.org:8080/live/36254571/3526987/380916.ts
+#EXTINF:-1 tvg-id="" tvg-name="KERALA VISION" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kerala-Vision.png" group-title="MALAYALAM",KERALA VISION
+http://opplex.org:8080/live/36254571/3526987/380867.ts
+#EXTINF:-1 tvg-id="" tvg-name="MANORAMA NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Manorama-News-1.png" group-title="MALAYALAM",MANORAMA NEWS
+http://opplex.org:8080/live/36254571/3526987/380930.ts
+#EXTINF:-1 tvg-id="" tvg-name="MATHRUBHUMI NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mathrubhumi-News.png" group-title="MALAYALAM",MATHRUBHUMI NEWS
+http://opplex.org:8080/live/36254571/3526987/380915.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAZAVALI MANORAMA HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mazhavil-Manorama.png" group-title="MALAYALAM",MAZAVALI MANORAMA HD
+http://opplex.org:8080/live/36254571/3526987/380932.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEDIA ONE" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Media-One.png" group-title="MALAYALAM",MEDIA ONE
+http://opplex.org:8080/live/36254571/3526987/380903.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 18 KERALA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Kerala-1.png" group-title="MALAYALAM",NEWS 18 KERALA
+http://opplex.org:8080/live/36254571/3526987/380931.ts
+#EXTINF:-1 tvg-id="" tvg-name="People TV" tvg-logo="" group-title="MALAYALAM",People TV
+http://opplex.org:8080/live/36254571/3526987/380902.ts
+#EXTINF:-1 tvg-id="" tvg-name="REAL NEWS KERALA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Real-News-Karela.png" group-title="MALAYALAM",REAL NEWS KERALA
+http://opplex.org:8080/live/36254571/3526987/380899.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAFARI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Safari-TV.png" group-title="MALAYALAM",SAFARI TV
+http://opplex.org:8080/live/36254571/3526987/380898.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHALOM TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Shalom.png" group-title="MALAYALAM",SHALOM TV
+http://opplex.org:8080/live/36254571/3526987/380897.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mazhavil Manorama International" tvg-logo="" group-title="MALAYALAM",Mazhavil Manorama International
+http://opplex.org:8080/live/36254571/3526987/380896.ts
+#EXTINF:-1 tvg-id="" tvg-name="KITE Victers" tvg-logo="" group-title="MALAYALAM",KITE Victers
+http://opplex.org:8080/live/36254571/3526987/380895.ts
+#EXTINF:-1 tvg-id="" tvg-name="SURYA MOVIES" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Surya-Movies.png" group-title="MALAYALAM",SURYA MOVIES
+http://opplex.org:8080/live/36254571/3526987/380933.ts
+#EXTINF:-1 tvg-id="" tvg-name="TWENTY FOUR NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Twenty-Four.png" group-title="MALAYALAM",TWENTY FOUR NEWS
+http://opplex.org:8080/live/36254571/3526987/380912.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABP MAJHA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Majha.png" group-title="MARATHI",ABP MAJHA
+http://opplex.org:8080/live/36254571/3526987/380819.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOKSHAHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Loksahi.png" group-title="MARATHI",LOKSHAHI
+http://opplex.org:8080/live/36254571/3526987/380820.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS MARATHI SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Marathi-SD.png" group-title="MARATHI",COLORS MARATHI SD
+http://opplex.org:8080/live/36254571/3526987/380821.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS MARATHI HD" tvg-logo="" group-title="MARATHI",COLORS MARATHI HD
+http://opplex.org:8080/live/36254571/3526987/383175.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS MARATHI FHD" tvg-logo="" group-title="MARATHI",COLORS MARATHI FHD
+http://opplex.org:8080/live/36254571/3526987/383174.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR PRAVAH HD" tvg-logo="" group-title="MARATHI",STAR PRAVAH HD
+http://opplex.org:8080/live/36254571/3526987/383034.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR PRAVAH FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Paravah.png" group-title="MARATHI",STAR PRAVAH FHD
+http://opplex.org:8080/live/36254571/3526987/380815.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE MARATHI" tvg-logo="" group-title="MARATHI",ZEE MARATHI
+http://opplex.org:8080/live/36254571/3526987/383033.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE MARATHI HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Marathi.png" group-title="MARATHI",ZEE MARATHI HD
+http://opplex.org:8080/live/36254571/3526987/380816.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TALKIES FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Talkies.png" group-title="MARATHI",ZEE TALKIES FHD
+http://opplex.org:8080/live/36254571/3526987/380818.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE YUVA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Yuva.png" group-title="MARATHI",ZEE YUVA
+http://opplex.org:8080/live/36254571/3526987/380837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Chitra Mandir" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cithra-copy.png" group-title="MARATHI",Zee Chitra Mandir
+http://opplex.org:8080/live/36254571/3526987/380859.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MARATHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sony-Marathi.png" group-title="MARATHI",SONY MARATHI
+http://opplex.org:8080/live/36254571/3526987/380842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lokshahi News" tvg-logo="" group-title="MARATHI",Lokshahi News
+http://opplex.org:8080/live/36254571/3526987/382296.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS18 LOKMAT" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-18-Lokmat.png" group-title="MARATHI",NEWS18 LOKMAT
+http://opplex.org:8080/live/36254571/3526987/380822.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sheemaroo MarathiBana" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Shemaroo-MarathiBana.png" group-title="MARATHI",Sheemaroo MarathiBana
+http://opplex.org:8080/live/36254571/3526987/380856.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sun TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun.png" group-title="MARATHI",Sun TV
+http://opplex.org:8080/live/36254571/3526987/380855.ts
+#EXTINF:-1 tvg-id="" tvg-name="9X JHAKAAS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/9X-Jhakaas.png" group-title="MARATHI",9X JHAKAAS
+http://opplex.org:8080/live/36254571/3526987/380854.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD SAHYADRI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Sahyadri.png" group-title="MARATHI",DD SAHYADRI
+http://opplex.org:8080/live/36254571/3526987/380840.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAKT MARATHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Fakt-Marathi.png" group-title="MARATHI",FAKT MARATHI
+http://opplex.org:8080/live/36254571/3526987/380846.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN GOA 24X7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Goa-247.png" group-title="MARATHI",IN GOA 24X7
+http://opplex.org:8080/live/36254571/3526987/380835.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAI MAHARASHTRA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jai-Maharashtra.png" group-title="MARATHI",JAI MAHARASHTRA
+http://opplex.org:8080/live/36254571/3526987/380834.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEDIA 9" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Media-9.png" group-title="MARATHI",MEDIA 9
+http://opplex.org:8080/live/36254571/3526987/380832.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS STATE MAHARASHTRA GOA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-State-Maharashtra-Goa.png" group-title="MARATHI",NEWS STATE MAHARASHTRA GOA
+http://opplex.org:8080/live/36254571/3526987/380831.ts
+#EXTINF:-1 tvg-id="" tvg-name="RDX GOA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/RDX-Goa.png" group-title="MARATHI",RDX GOA
+http://opplex.org:8080/live/36254571/3526987/380829.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic.png" group-title="MARATHI",SONIC
+http://opplex.org:8080/live/36254571/3526987/380860.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONIC NICKELODEON" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic.png" group-title="MARATHI",SONIC NICKELODEON
+http://opplex.org:8080/live/36254571/3526987/380828.ts
+#EXTINF:-1 tvg-id="" tvg-name="C NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Saam-TV.png" group-title="MARATHI",C NEWS
+http://opplex.org:8080/live/36254571/3526987/380852.ts
+#EXTINF:-1 tvg-id="" tvg-name="SANGEET MARATHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sangeet-Marathi.png" group-title="MARATHI",SANGEET MARATHI
+http://opplex.org:8080/live/36254571/3526987/380853.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV9 MARATHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Media-9.png" group-title="MARATHI",TV9 MARATHI
+http://opplex.org:8080/live/36254571/3526987/380851.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE 24 TAAS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tas.png" group-title="MARATHI",ZEE 24 TAAS
+http://opplex.org:8080/live/36254571/3526987/380850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aastha Gujarati" tvg-logo="" group-title="GUJARATI",Aastha Gujarati
+http://opplex.org:8080/live/36254571/3526987/382011.ts
+#EXTINF:-1 tvg-id="" tvg-name="Buletin India" tvg-logo="" group-title="GUJARATI",Buletin India
+http://opplex.org:8080/live/36254571/3526987/382012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digishala" tvg-logo="" group-title="GUJARATI",Digishala
+http://opplex.org:8080/live/36254571/3526987/382013.ts
+#EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="" group-title="GUJARATI",GS TV
+http://opplex.org:8080/live/36254571/3526987/382014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shree Shani Shingnapur Live Darshan ( Spiritual )" tvg-logo="" group-title="GUJARATI",Shree Shani Shingnapur Live Darshan ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/382015.ts
+#EXTINF:-1 tvg-id="" tvg-name="News Capital Gujarat" tvg-logo="" group-title="GUJARATI",News Capital Gujarat
+http://opplex.org:8080/live/36254571/3526987/382016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shiksha TV" tvg-logo="" group-title="GUJARATI",Shiksha TV
+http://opplex.org:8080/live/36254571/3526987/382017.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABP ASMITHA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Asmita.png" group-title="GUJARATI",ABP ASMITHA
+http://opplex.org:8080/live/36254571/3526987/381268.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS GUJRATI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Gujarati.png" group-title="GUJARATI",COLORS GUJRATI
+http://opplex.org:8080/live/36254571/3526987/381266.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS GUJRATI CINEMA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Gujarati-Cinema.png" group-title="GUJARATI",COLORS GUJRATI CINEMA
+http://opplex.org:8080/live/36254571/3526987/381267.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS18 GUJARATI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-18-Gujarati.png" group-title="GUJARATI",NEWS18 GUJARATI
+http://opplex.org:8080/live/36254571/3526987/381270.ts
+#EXTINF:-1 tvg-id="" tvg-name="GUJRATI CINEMA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Gujrati-Cinema.png" group-title="GUJARATI",GUJRATI CINEMA
+http://opplex.org:8080/live/36254571/3526987/381289.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRARTHANA BHAWAN" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Prarthana.png" group-title="GUJARATI",PRARTHANA BHAWAN
+http://opplex.org:8080/live/36254571/3526987/381269.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC BAZAR" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNBC-Bajaar.png" group-title="GUJARATI",CNBC BAZAR
+http://opplex.org:8080/live/36254571/3526987/381288.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD GIRNAR" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Ginrar.png" group-title="GUJARATI",DD GIRNAR
+http://opplex.org:8080/live/36254571/3526987/381284.ts
+#EXTINF:-1 tvg-id="" tvg-name="GUJARAT FIRST" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gujarat-First.png" group-title="GUJARATI",GUJARAT FIRST
+http://opplex.org:8080/live/36254571/3526987/381272.ts
+#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS GUJ" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News.png" group-title="GUJARATI",INDIA NEWS GUJ
+http://opplex.org:8080/live/36254571/3526987/381285.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAKSHYA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Lakshya-TV.png" group-title="GUJARATI",LAKSHYA TV
+http://opplex.org:8080/live/36254571/3526987/381274.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mantavya 24x7 News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mantavya-News.png" group-title="GUJARATI",Mantavya 24x7 News
+http://opplex.org:8080/live/36254571/3526987/381273.ts
+#EXTINF:-1 tvg-id="" tvg-name="SANDESH NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sandesh-News.png" group-title="GUJARATI",SANDESH NEWS
+http://opplex.org:8080/live/36254571/3526987/381278.ts
+#EXTINF:-1 tvg-id="" tvg-name="SWAR SHREE" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Swar-Shree.png" group-title="GUJARATI",SWAR SHREE
+http://opplex.org:8080/live/36254571/3526987/381276.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV9 BHARATVARSH" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bharatvarsh.png" group-title="GUJARATI",TV9 BHARATVARSH
+http://opplex.org:8080/live/36254571/3526987/381281.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV9 GUJARATI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bharatvarsh.png" group-title="GUJARATI",TV9 GUJARATI
+http://opplex.org:8080/live/36254571/3526987/381287.ts
+#EXTINF:-1 tvg-id="" tvg-name="VALAM TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Valam-TV.png" group-title="GUJARATI",VALAM TV
+http://opplex.org:8080/live/36254571/3526987/381275.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/VTV-News.png" group-title="GUJARATI",VTV NEWS
+http://opplex.org:8080/live/36254571/3526987/381280.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE 24 KALAK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-24-Kalak.png" group-title="GUJARATI",ZEE 24 KALAK
+http://opplex.org:8080/live/36254571/3526987/381286.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 1
+http://opplex.org:8080/live/36254571/3526987/381290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 10" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 10
+http://opplex.org:8080/live/36254571/3526987/381299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 11" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 11
+http://opplex.org:8080/live/36254571/3526987/381300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 12" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 12
+http://opplex.org:8080/live/36254571/3526987/381301.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 13
+http://opplex.org:8080/live/36254571/3526987/381302.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 14" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 14
+http://opplex.org:8080/live/36254571/3526987/381303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 15" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 15
+http://opplex.org:8080/live/36254571/3526987/381304.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 16" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 16
+http://opplex.org:8080/live/36254571/3526987/381305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 2
+http://opplex.org:8080/live/36254571/3526987/381291.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 3
+http://opplex.org:8080/live/36254571/3526987/381292.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 4" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 4
+http://opplex.org:8080/live/36254571/3526987/381293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 5" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 5
+http://opplex.org:8080/live/36254571/3526987/381294.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 6" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 6
+http://opplex.org:8080/live/36254571/3526987/381295.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 7
+http://opplex.org:8080/live/36254571/3526987/381296.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 8" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 8
+http://opplex.org:8080/live/36254571/3526987/381297.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vande Gujarat 9" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vande.png" group-title="GUJARATI",Vande Gujarat 9
+http://opplex.org:8080/live/36254571/3526987/381298.ts
+#EXTINF:-1 tvg-id="" tvg-name="VT COLORS FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Gujarati.png" group-title="GUJARATI",VT COLORS FHD
+http://opplex.org:8080/live/36254571/3526987/381271.ts
+#EXTINF:-1 tvg-id="" tvg-name="KALINGA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalinga-TV.png" group-title="ORIYA",KALINGA TV
+http://opplex.org:8080/live/36254571/3526987/381247.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Odia.png" group-title="ORIYA",COLORS HD
+http://opplex.org:8080/live/36254571/3526987/381245.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sidharth Gold" tvg-logo="" group-title="ORIYA",Sidharth Gold
+http://opplex.org:8080/live/36254571/3526987/381248.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE SARTHAK TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Sarthak.png" group-title="ORIYA",ZEE SARTHAK TV
+http://opplex.org:8080/live/36254571/3526987/381246.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="" group-title="ORIYA",MBC
+http://opplex.org:8080/live/36254571/3526987/381244.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALANKAR TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Alankar-TV.png" group-title="ORIYA",ALANKAR TV
+http://opplex.org:8080/live/36254571/3526987/381255.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGUS NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Argus-News.png" group-title="ORIYA",ARGUS NEWS
+http://opplex.org:8080/live/36254571/3526987/381254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prameya News 7" tvg-logo="" group-title="ORIYA",Prameya News 7
+http://opplex.org:8080/live/36254571/3526987/381256.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD ODIA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Odiya.png" group-title="ORIYA",DD ODIA
+http://opplex.org:8080/live/36254571/3526987/381253.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAK NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kanak-News.png" group-title="ORIYA",KANAK NEWS
+http://opplex.org:8080/live/36254571/3526987/381261.ts
+#EXTINF:-1 tvg-id="" tvg-name="NANDIGHOSHA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nandigosha.png" group-title="ORIYA",NANDIGHOSHA TV
+http://opplex.org:8080/live/36254571/3526987/381252.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 18 ODIA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-18-Odia.png" group-title="ORIYA",NEWS 18 ODIA
+http://opplex.org:8080/live/36254571/3526987/381257.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIDHARTH TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sidharth-TV.png" group-title="ORIYA",SIDHARTH TV
+http://opplex.org:8080/live/36254571/3526987/381251.ts
+#EXTINF:-1 tvg-id="" tvg-name="TARANG MUSIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tarang-Music.png" group-title="ORIYA",TARANG MUSIC
+http://opplex.org:8080/live/36254571/3526987/381259.ts
+#EXTINF:-1 tvg-id="" tvg-name="TARANG TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tarang-TV.png" group-title="ORIYA",TARANG TV
+http://opplex.org:8080/live/36254571/3526987/381258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sidharth Bhakti   ( Spiritual )" tvg-logo="" group-title="ORIYA",Sidharth Bhakti   ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/381260.ts
+#EXTINF:-1 tvg-id="" tvg-name="Naxatra News" tvg-logo="" group-title="ORIYA",Naxatra News
+http://opplex.org:8080/live/36254571/3526987/381250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Badakhabar" tvg-logo="" group-title="ORIYA",Badakhabar
+http://opplex.org:8080/live/36254571/3526987/381249.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET SUVARNA NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Suvarna-News.png" group-title="KAND",ASIANET SUVARNA NEWS
+http://opplex.org:8080/live/36254571/3526987/381182.ts
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Btv-News.png" group-title="KAND",BTV
+http://opplex.org:8080/live/36254571/3526987/381203.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHINTU TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Chintu.png" group-title="KAND",CHINTU TV
+http://opplex.org:8080/live/36254571/3526987/381197.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS SUPER" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-SUPER.png" group-title="KAND",COLORS SUPER
+http://opplex.org:8080/live/36254571/3526987/381187.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Kannada News" tvg-logo="" group-title="KAND",Zee Kannada News
+http://opplex.org:8080/live/36254571/3526987/381239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colors Kannada Cinema" tvg-logo="" group-title="KAND",Colors Kannada Cinema
+http://opplex.org:8080/live/36254571/3526987/381185.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ MUSIC KANNADA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Musix-Kannada.png" group-title="KAND",RAJ MUSIC KANNADA
+http://opplex.org:8080/live/36254571/3526987/381199.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News-Kannada.png" group-title="KAND",RAJ NEWS
+http://opplex.org:8080/live/36254571/3526987/381183.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SUVARNA FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Suvarna-HD.png" group-title="KAND",STAR SUVARNA FHD
+http://opplex.org:8080/live/36254571/3526987/381194.ts
+#EXTINF:-1 tvg-id="" tvg-name="UDAYA TV HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Udaya-TV-HD.png" group-title="KAND",UDAYA TV HD
+http://opplex.org:8080/live/36254571/3526987/381192.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV KANNADA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Kannada.png" group-title="KAND",ZEE TV KANNADA
+http://opplex.org:8080/live/36254571/3526987/381202.ts
+#EXTINF:-1 tvg-id="" tvg-name="AYUSH TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Ayush-TV.png" group-title="KAND",AYUSH TV
+http://opplex.org:8080/live/36254571/3526987/381226.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEMA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Bangla-Cinema.png" group-title="KAND",COLORS CINEMA
+http://opplex.org:8080/live/36254571/3526987/381230.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Kannada-HD.png" group-title="KAND",COLORS FHD
+http://opplex.org:8080/live/36254571/3526987/381229.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAIJI WORLD TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Daiji-World-TV.png" group-title="KAND",DAIJI WORLD TV
+http://opplex.org:8080/live/36254571/3526987/381210.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD CHANDANA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Chandana.png" group-title="KAND",DD CHANDANA
+http://opplex.org:8080/live/36254571/3526987/381213.ts
+#EXTINF:-1 tvg-id="" tvg-name="Republic Kannada" tvg-logo="" group-title="KAND",Republic Kannada
+http://opplex.org:8080/live/36254571/3526987/381206.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aastha Kannada   ( Spiritual )" tvg-logo="" group-title="KAND",Aastha Kannada   ( Spiritual )
+http://opplex.org:8080/live/36254571/3526987/381242.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAKSHATRA DIGITAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nakshatra-Digital.png" group-title="KAND",NAKSHATRA DIGITAL
+http://opplex.org:8080/live/36254571/3526987/381220.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAMMA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Namma-TV.png" group-title="KAND",NAMMA TV
+http://opplex.org:8080/live/36254571/3526987/381212.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1ST" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-1st.png" group-title="KAND",NEWS 1ST
+http://opplex.org:8080/live/36254571/3526987/381214.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS18 KANNADA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Kannada.png" group-title="KAND",NEWS18 KANNADA
+http://opplex.org:8080/live/36254571/3526987/381218.ts
+#EXTINF:-1 tvg-id="" tvg-name="POWER TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Power-TV.png" group-title="KAND",POWER TV
+http://opplex.org:8080/live/36254571/3526987/381215.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUBLIC MOVIES" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Public-Movies.png" group-title="KAND",PUBLIC MOVIES
+http://opplex.org:8080/live/36254571/3526987/381222.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUBLIC MUSIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Public-Music.png" group-title="KAND",PUBLIC MUSIC
+http://opplex.org:8080/live/36254571/3526987/381232.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUBLIC TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Public-TV.png" group-title="KAND",PUBLIC TV
+http://opplex.org:8080/live/36254571/3526987/381237.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAMARA NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Samara-News-1.png" group-title="KAND",SAMARA NEWS
+http://opplex.org:8080/live/36254571/3526987/381211.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIRIKANNADA ALLTIME" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SIRI-KANNADA.png" group-title="KAND",SIRIKANNADA ALLTIME
+http://opplex.org:8080/live/36254571/3526987/381221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Udaya Music" tvg-logo="" group-title="KAND",Udaya Music
+http://opplex.org:8080/live/36254571/3526987/381205.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SUVARNA PLUS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Suvarna-Plus.png" group-title="KAND",STAR SUVARNA PLUS
+http://opplex.org:8080/live/36254571/3526987/381223.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV5-Kannada.png" group-title="KAND",TV5 NEWS
+http://opplex.org:8080/live/36254571/3526987/381238.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV9 KANNADA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV9-Kannada.png" group-title="KAND",TV9 KANNADA
+http://opplex.org:8080/live/36254571/3526987/381241.ts
+#EXTINF:-1 tvg-id="" tvg-name="UDAYA MOVIES" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Udaya-Movies.png" group-title="KAND",UDAYA MOVIES
+http://opplex.org:8080/live/36254571/3526987/381234.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE PICCHAR" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Picchar.png" group-title="KAND",ZEE PICCHAR
+http://opplex.org:8080/live/36254571/3526987/381240.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABP News" tvg-logo="" group-title="NEWS",ABP News
+http://opplex.org:8080/live/36254571/3526987/244798.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="" group-title="NEWS",DD News
+http://opplex.org:8080/live/36254571/3526987/244799.ts
+#EXTINF:-1 tvg-id="" tvg-name="News State up uk" tvg-logo="" group-title="NEWS",News State up uk
+http://opplex.org:8080/live/36254571/3526987/244800.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Madhya Pradesh Chhattisgarh News" tvg-logo="" group-title="NEWS",Zee Madhya Pradesh Chhattisgarh News
+http://opplex.org:8080/live/36254571/3526987/244801.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Rajasthan News" tvg-logo="" group-title="NEWS",Zee Rajasthan News
+http://opplex.org:8080/live/36254571/3526987/244802.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee News" tvg-logo="" group-title="NEWS",Zee News
+http://opplex.org:8080/live/36254571/3526987/244803.ts
+#EXTINF:-1 tvg-id="" tvg-name="Surya Samachar News" tvg-logo="" group-title="NEWS",Surya Samachar News
+http://opplex.org:8080/live/36254571/3526987/244804.ts
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="NEWS",News 24
+http://opplex.org:8080/live/36254571/3526987/244805.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rajasthan News" tvg-logo="" group-title="NEWS",Rajasthan News
+http://opplex.org:8080/live/36254571/3526987/244806.ts
+#EXTINF:-1 tvg-id="" tvg-name="Good News Today" tvg-logo="" group-title="NEWS",Good News Today
+http://opplex.org:8080/live/36254571/3526987/244807.ts
+#EXTINF:-1 tvg-id="" tvg-name="HINDI_Sudarshan News" tvg-logo="" group-title="NEWS",HINDI_Sudarshan News
+http://opplex.org:8080/live/36254571/3526987/244808.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENGLIASH: India Today News" tvg-logo="" group-title="NEWS",ENGLIASH: India Today News
+http://opplex.org:8080/live/36254571/3526987/244809.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sadhna Plus News" tvg-logo="" group-title="NEWS",Sadhna Plus News
+http://opplex.org:8080/live/36254571/3526987/244812.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prag News" tvg-logo="" group-title="NEWS",Prag News
+http://opplex.org:8080/live/36254571/3526987/244814.ts
+#EXTINF:-1 tvg-id="" tvg-name="India News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-1.png" group-title="NEWS",India News
+http://opplex.org:8080/live/36254571/3526987/244815.ts
+#EXTINF:-1 tvg-id="" tvg-name="News X" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NewsX.png" group-title="NEWS",News X
+http://opplex.org:8080/live/36254571/3526987/244816.ts
+#EXTINF:-1 tvg-id="" tvg-name="India News Punjabi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-Punjab.png" group-title="NEWS",India News Punjabi
+http://opplex.org:8080/live/36254571/3526987/244817.ts
+#EXTINF:-1 tvg-id="" tvg-name="India News UP" tvg-logo="" group-title="NEWS",India News UP
+http://opplex.org:8080/live/36254571/3526987/244818.ts
+#EXTINF:-1 tvg-id="" tvg-name="India News Rajasthan" tvg-logo="" group-title="NEWS",India News Rajasthan
+http://opplex.org:8080/live/36254571/3526987/244819.ts
+#EXTINF:-1 tvg-id="" tvg-name="India News MP" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Rajasthan-News.png" group-title="NEWS",India News MP
+http://opplex.org:8080/live/36254571/3526987/244820.ts
+#EXTINF:-1 tvg-id="" tvg-name="India News Haryana" tvg-logo="" group-title="NEWS",India News Haryana
+http://opplex.org:8080/live/36254571/3526987/244821.ts
+#EXTINF:-1 tvg-id="" tvg-name="North East Live" tvg-logo="" group-title="NEWS",North East Live
+http://opplex.org:8080/live/36254571/3526987/244822.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gulistan News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gulistan-News.png" group-title="NEWS",Gulistan News
+http://opplex.org:8080/live/36254571/3526987/244825.ts
+#EXTINF:-1 tvg-id="" tvg-name="News Live" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-State-MP.png" group-title="NEWS",News Live
+http://opplex.org:8080/live/36254571/3526987/244826.ts
+#EXTINF:-1 tvg-id="" tvg-name="News 18 Assam" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ND24.png" group-title="NEWS",News 18 Assam
+http://opplex.org:8080/live/36254571/3526987/244827.ts
+#EXTINF:-1 tvg-id="" tvg-name="AB Star News" tvg-logo="" group-title="NEWS",AB Star News
+http://opplex.org:8080/live/36254571/3526987/244829.ts
+#EXTINF:-1 tvg-id="" tvg-name="C News Bharat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/C-News-Bharat.png" group-title="NEWS",C News Bharat
+http://opplex.org:8080/live/36254571/3526987/244831.ts
+#EXTINF:-1 tvg-id="" tvg-name="HNN 24x7" tvg-logo="" group-title="NEWS",HNN 24x7
+http://opplex.org:8080/live/36254571/3526987/244832.ts
+#EXTINF:-1 tvg-id="" tvg-name="URDU: ANN News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ANN-News.png" group-title="NEWS",URDU: ANN News
+http://opplex.org:8080/live/36254571/3526987/244834.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pratham Khabar 24x7" tvg-logo="" group-title="NEWS",Pratham Khabar 24x7
+http://opplex.org:8080/live/36254571/3526987/244835.ts
+#EXTINF:-1 tvg-id="" tvg-name="STV Haryana News" tvg-logo="" group-title="NEWS",STV Haryana News
+http://opplex.org:8080/live/36254571/3526987/244839.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sadhna News Plus" tvg-logo="" group-title="NEWS",Sadhna News Plus
+http://opplex.org:8080/live/36254571/3526987/244842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swadesh News" tvg-logo="" group-title="NEWS",Swadesh News
+http://opplex.org:8080/live/36254571/3526987/244844.ts
+#EXTINF:-1 tvg-id="" tvg-name="News India 24x7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NEWS-INDIA-24x7-1.png" group-title="NEWS",News India 24x7
+http://opplex.org:8080/live/36254571/3526987/244846.ts
+#EXTINF:-1 tvg-id="" tvg-name="INH 24x7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/INH-247.png" group-title="NEWS",INH 24x7
+http://opplex.org:8080/live/36254571/3526987/244847.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 TV Rajasthan" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/A1-TV.png" group-title="NEWS",A1 TV Rajasthan
+http://opplex.org:8080/live/36254571/3526987/244848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bansal News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bansal-News.png" group-title="NEWS",Bansal News
+http://opplex.org:8080/live/36254571/3526987/244849.ts
+#EXTINF:-1 tvg-id="" tvg-name="First India News" tvg-logo="" group-title="NEWS",First India News
+http://opplex.org:8080/live/36254571/3526987/244850.ts
+#EXTINF:-1 tvg-id="" tvg-name="News 11" tvg-logo="" group-title="NEWS",News 11
+http://opplex.org:8080/live/36254571/3526987/244851.ts
+#EXTINF:-1 tvg-id="" tvg-name="APN News" tvg-logo="" group-title="NEWS",APN News
+http://opplex.org:8080/live/36254571/3526987/244852.ts
+#EXTINF:-1 tvg-id="" tvg-name="News 1 India" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-1.png" group-title="NEWS",News 1 India
+http://opplex.org:8080/live/36254571/3526987/244853.ts
+#EXTINF:-1 tvg-id="" tvg-name="K News" tvg-logo="" group-title="NEWS",K News
+http://opplex.org:8080/live/36254571/3526987/244854.ts
+#EXTINF:-1 tvg-id="" tvg-name="JK 24x7 News" tvg-logo="" group-title="NEWS",JK 24x7 News
+http://opplex.org:8080/live/36254571/3526987/244855.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kashish News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kashish-News.png" group-title="NEWS",Kashish News
+http://opplex.org:8080/live/36254571/3526987/244856.ts
+#EXTINF:-1 tvg-id="" tvg-name="News 18 Urdu" tvg-logo="" group-title="NEWS",News 18 Urdu
+http://opplex.org:8080/live/36254571/3526987/244861.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN News 18 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNN-News18.png" group-title="NEWS",CNN News 18 FHD
+http://opplex.org:8080/live/36254571/3526987/244862.ts
+#EXTINF:-1 tvg-id="" tvg-name="News18 MP Chhattisgarh" tvg-logo="" group-title="NEWS",News18 MP Chhattisgarh
+http://opplex.org:8080/live/36254571/3526987/244863.ts
+#EXTINF:-1 tvg-id="" tvg-name="News18 UP Uttarakhand" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-Nation.png" group-title="NEWS",News18 UP Uttarakhand
+http://opplex.org:8080/live/36254571/3526987/244864.ts
+#EXTINF:-1 tvg-id="" tvg-name="News18 Bihar Jharkhand" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Bihar-Jharkhand.png" group-title="NEWS",News18 Bihar Jharkhand
+http://opplex.org:8080/live/36254571/3526987/244865.ts
+#EXTINF:-1 tvg-id="" tvg-name="News18 Rajasthan FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Rajasthan.png" group-title="NEWS",News18 Rajasthan FHD
+http://opplex.org:8080/live/36254571/3526987/244866.ts
+#EXTINF:-1 tvg-id="" tvg-name="News18 Lokmat" tvg-logo="" group-title="NEWS",News18 Lokmat
+http://opplex.org:8080/live/36254571/3526987/244867.ts
+#EXTINF:-1 tvg-id="" tvg-name="News18 Odia FHD" tvg-logo="" group-title="NEWS",News18 Odia FHD
+http://opplex.org:8080/live/36254571/3526987/244868.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Tak HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/200px-Aaj_tak_logo.png" group-title="NEWS",Aaj Tak HD
+http://opplex.org:8080/live/36254571/3526987/244915.ts
+#EXTINF:-1 tvg-id="" tvg-name="NDTV Profit" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NDTV-Profit-Prime.png" group-title="NEWS",NDTV Profit
+http://opplex.org:8080/live/36254571/3526987/244916.ts
+#EXTINF:-1 tvg-id="" tvg-name="NDTV INDIA" tvg-logo="" group-title="NEWS",NDTV INDIA
+http://opplex.org:8080/live/36254571/3526987/244917.ts
+#EXTINF:-1 tvg-id="" tvg-name="NDTV Good Times" tvg-logo="" group-title="NEWS",NDTV Good Times
+http://opplex.org:8080/live/36254571/3526987/244918.ts
+#EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/REPUBLIC-Bharat.png" group-title="NEWS",Republic Bharat
+http://opplex.org:8080/live/36254571/3526987/243733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Business" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Business.png" group-title="NEWS",Zee Business
+http://opplex.org:8080/live/36254571/3526987/341135.ts
+#EXTINF:-1 tvg-id="" tvg-name="Time Now Navbharat" tvg-logo="" group-title="NEWS",Time Now Navbharat
+http://opplex.org:8080/live/36254571/3526987/345354.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC-TV18" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNBC-TV18.png" group-title="NEWS",CNBC-TV18
+http://opplex.org:8080/live/36254571/3526987/355645.ts
+#EXTINF:-1 tvg-id="10tv.in" tvg-name="10tv" tvg-logo="" group-title="RELIGIOUS",10tv
+http://opplex.org:8080/live/36254571/3526987/246164.ts
+#EXTINF:-1 tvg-id="" tvg-name="7SMUSIC" tvg-logo="" group-title="RELIGIOUS",7SMUSIC
+http://opplex.org:8080/live/36254571/3526987/246165.ts
+#EXTINF:-1 tvg-id="" tvg-name="PkAAHOMUSIC" tvg-logo="" group-title="RELIGIOUS",PkAAHOMUSIC
+http://opplex.org:8080/live/36254571/3526987/246166.ts
+#EXTINF:-1 tvg-id="abnandhrajyothy.in" tvg-name="ANDHRA_JYOTI" tvg-logo="" group-title="RELIGIOUS",ANDHRA_JYOTI
+http://opplex.org:8080/live/36254571/3526987/246167.ts
+#EXTINF:-1 tvg-id="" tvg-name="AP_24X7" tvg-logo="" group-title="RELIGIOUS",AP_24X7
+http://opplex.org:8080/live/36254571/3526987/246168.ts
+#EXTINF:-1 tvg-id="atetv.in" tvg-name="ATE_TV" tvg-logo="" group-title="RELIGIOUS",ATE_TV
+http://opplex.org:8080/live/36254571/3526987/246169.ts
+#EXTINF:-1 tvg-id="" tvg-name="CALVARY_TV" tvg-logo="" group-title="RELIGIOUS",CALVARY_TV
+http://opplex.org:8080/live/36254571/3526987/246170.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAPTAIN_TV" tvg-logo="" group-title="RELIGIOUS",CAPTAIN_TV
+http://opplex.org:8080/live/36254571/3526987/246171.ts
+#EXTINF:-1 tvg-id="cvrnews.in" tvg-name="CVR_NEWS" tvg-logo="" group-title="RELIGIOUS",CVR_NEWS
+http://opplex.org:8080/live/36254571/3526987/246172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Darshana_Tv" tvg-logo="" group-title="RELIGIOUS",Darshana_Tv
+http://opplex.org:8080/live/36254571/3526987/246174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dheeran_TV" tvg-logo="" group-title="RELIGIOUS",Dheeran_TV
+http://opplex.org:8080/live/36254571/3526987/246175.ts
+#EXTINF:-1 tvg-id="hmtv.in" tvg-name="HMTV" tvg-logo="" group-title="RELIGIOUS",HMTV
+http://opplex.org:8080/live/36254571/3526987/246176.ts
+#EXTINF:-1 tvg-id="" tvg-name="I_NEWS" tvg-logo="" group-title="RELIGIOUS",I_NEWS
+http://opplex.org:8080/live/36254571/3526987/246177.ts
+#EXTINF:-1 tvg-id="" tvg-name="IMAYAM_TV" tvg-logo="" group-title="RELIGIOUS",IMAYAM_TV
+http://opplex.org:8080/live/36254571/3526987/246178.ts
+#EXTINF:-1 tvg-id="kairalitv.in" tvg-name="KAIRALI" tvg-logo="" group-title="RELIGIOUS",KAIRALI
+http://opplex.org:8080/live/36254571/3526987/246179.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAIRALI_ARABIA" tvg-logo="" group-title="RELIGIOUS",KAIRALI_ARABIA
+http://opplex.org:8080/live/36254571/3526987/246180.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAIRALI_NEWS" tvg-logo="" group-title="RELIGIOUS",KAIRALI_NEWS
+http://opplex.org:8080/live/36254571/3526987/246181.ts
+#EXTINF:-1 tvg-id="" tvg-name="KALAIGNAR_CHITHIRAM" tvg-logo="" group-title="RELIGIOUS",KALAIGNAR_CHITHIRAM
+http://opplex.org:8080/live/36254571/3526987/246182.ts
+#EXTINF:-1 tvg-id="" tvg-name="KALAIGNAR_ISAI_ARUVI" tvg-logo="" group-title="RELIGIOUS",KALAIGNAR_ISAI_ARUVI
+http://opplex.org:8080/live/36254571/3526987/246183.ts
+#EXTINF:-1 tvg-id="" tvg-name="KALAIGNAR_MURASU" tvg-logo="" group-title="RELIGIOUS",KALAIGNAR_MURASU
+http://opplex.org:8080/live/36254571/3526987/246184.ts
+#EXTINF:-1 tvg-id="" tvg-name="KALAIGNAR_SEITHIGAL" tvg-logo="" group-title="RELIGIOUS",KALAIGNAR_SEITHIGAL
+http://opplex.org:8080/live/36254571/3526987/246185.ts
+#EXTINF:-1 tvg-id="" tvg-name="KALAIGNAR_SIRIPPOLI" tvg-logo="" group-title="RELIGIOUS",KALAIGNAR_SIRIPPOLI
+http://opplex.org:8080/live/36254571/3526987/246186.ts
+#EXTINF:-1 tvg-id="" tvg-name="KALAIGNAR_TV" tvg-logo="" group-title="RELIGIOUS",KALAIGNAR_TV
+http://opplex.org:8080/live/36254571/3526987/246187.ts
+#EXTINF:-1 tvg-id="kalingatv.in" tvg-name="KALINGA_TV" tvg-logo="" group-title="RELIGIOUS",KALINGA_TV
+http://opplex.org:8080/live/36254571/3526987/246188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kerala_Vision" tvg-logo="" group-title="RELIGIOUS",Kerala_Vision
+http://opplex.org:8080/live/36254571/3526987/246189.ts
+#EXTINF:-1 tvg-id="madhatv.in" tvg-name="MADHA_TV" tvg-logo="" group-title="RELIGIOUS",MADHA_TV
+http://opplex.org:8080/live/36254571/3526987/246190.ts
+#EXTINF:-1 tvg-id="makkaltv.in" tvg-name="MAKKAL_TV" tvg-logo="" group-title="RELIGIOUS",MAKKAL_TV
+http://opplex.org:8080/live/36254571/3526987/246191.ts
+#EXTINF:-1 tvg-id="" tvg-name="MALAI_MURASU_SEITHIKAL" tvg-logo="" group-title="RELIGIOUS",MALAI_MURASU_SEITHIKAL
+http://opplex.org:8080/live/36254571/3526987/246192.ts
+#EXTINF:-1 tvg-id="" tvg-name="MANGALAM_TV" tvg-logo="" group-title="RELIGIOUS",MANGALAM_TV
+http://opplex.org:8080/live/36254571/3526987/246193.ts
+#EXTINF:-1 tvg-id="manoramanews.in" tvg-name="Manorama_News_Central" tvg-logo="" group-title="RELIGIOUS",Manorama_News_Central
+http://opplex.org:8080/live/36254571/3526987/246194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Manorama_News_North" tvg-logo="" group-title="RELIGIOUS",Manorama_News_North
+http://opplex.org:8080/live/36254571/3526987/246195.ts
+#EXTINF:-1 tvg-id="mazhavilmanoramahd.in" tvg-name="Mazhavil_HD" tvg-logo="" group-title="RELIGIOUS",Mazhavil_HD
+http://opplex.org:8080/live/36254571/3526987/246196.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC_TV" tvg-logo="" group-title="RELIGIOUS",MBC_TV
+http://opplex.org:8080/live/36254571/3526987/246197.ts
+#EXTINF:-1 tvg-id="mediaone.in" tvg-name="MEDIA_ONE" tvg-logo="" group-title="RELIGIOUS",MEDIA_ONE
+http://opplex.org:8080/live/36254571/3526987/246198.ts
+#EXTINF:-1 tvg-id="" tvg-name="MH_ONE_MUSIC" tvg-logo="" group-title="RELIGIOUS",MH_ONE_MUSIC
+http://opplex.org:8080/live/36254571/3526987/246199.ts
+#EXTINF:-1 tvg-id="" tvg-name="MH_ONE_NEWS" tvg-logo="" group-title="RELIGIOUS",MH_ONE_NEWS
+http://opplex.org:8080/live/36254571/3526987/246200.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK_SIX" tvg-logo="" group-title="RELIGIOUS",MK_SIX
+http://opplex.org:8080/live/36254571/3526987/246201.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK_TELEVISION" tvg-logo="" group-title="RELIGIOUS",MK_TELEVISION
+http://opplex.org:8080/live/36254571/3526987/246202.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK_TUNES" tvg-logo="" group-title="RELIGIOUS",MK_TUNES
+http://opplex.org:8080/live/36254571/3526987/246203.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOON_TV" tvg-logo="" group-title="RELIGIOUS",MOON_TV
+http://opplex.org:8080/live/36254571/3526987/246204.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE_TV" tvg-logo="" group-title="RELIGIOUS",ORANGE_TV
+http://opplex.org:8080/live/36254571/3526987/246205.ts
+#EXTINF:-1 tvg-id="polimertv.in" tvg-name="POLIMER" tvg-logo="" group-title="RELIGIOUS",POLIMER
+http://opplex.org:8080/live/36254571/3526987/246206.ts
+#EXTINF:-1 tvg-id="" tvg-name="POWER_VISION" tvg-logo="" group-title="RELIGIOUS",POWER_VISION
+http://opplex.org:8080/live/36254571/3526987/246207.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUBLIC_MOVIES" tvg-logo="" group-title="RELIGIOUS",PUBLIC_MOVIES
+http://opplex.org:8080/live/36254571/3526987/246208.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUBLIC_MUSIC" tvg-logo="" group-title="RELIGIOUS",PUBLIC_MUSIC
+http://opplex.org:8080/live/36254571/3526987/246209.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUBLIC_TV" tvg-logo="" group-title="RELIGIOUS",PUBLIC_TV
+http://opplex.org:8080/live/36254571/3526987/246210.ts
+#EXTINF:-1 tvg-id="" tvg-name="R_TV" tvg-logo="" group-title="RELIGIOUS",R_TV
+http://opplex.org:8080/live/36254571/3526987/246211.ts
+#EXTINF:-1 tvg-id="" tvg-name="RM_RUJUMARGAM_TV" tvg-logo="" group-title="RELIGIOUS",RM_RUJUMARGAM_TV
+http://opplex.org:8080/live/36254571/3526987/246212.ts
+#EXTINF:-1 tvg-id="sadhnanews.in" tvg-name="Sadhna_Prime_News" tvg-logo="" group-title="RELIGIOUS",Sadhna_Prime_News
+http://opplex.org:8080/live/36254571/3526987/246213.ts
+#EXTINF:-1 tvg-id="" tvg-name="SATHIYAM_TV" tvg-logo="" group-title="RELIGIOUS",SATHIYAM_TV
+http://opplex.org:8080/live/36254571/3526987/246214.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHEMAROO_MARATHIBANA" tvg-logo="" group-title="RELIGIOUS",SHEMAROO_MARATHIBANA
+http://opplex.org:8080/live/36254571/3526987/246215.ts
+#EXTINF:-1 tvg-id="srisankaratv.in" tvg-name="SRI_SANKARA" tvg-logo="" group-title="RELIGIOUS",SRI_SANKARA
+http://opplex.org:8080/live/36254571/3526987/246216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio_One" tvg-logo="" group-title="RELIGIOUS",Studio_One
+http://opplex.org:8080/live/36254571/3526987/246217.ts
+#EXTINF:-1 tvg-id="tnews.in" tvg-name="T_NEWS" tvg-logo="" group-title="RELIGIOUS",T_NEWS
+http://opplex.org:8080/live/36254571/3526987/246218.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAMILAN_TELEVISION" tvg-logo="" group-title="RELIGIOUS",TAMILAN_TELEVISION
+http://opplex.org:8080/live/36254571/3526987/246219.ts
+#EXTINF:-1 tvg-id="tv5.in" tvg-name="TV_5" tvg-logo="" group-title="RELIGIOUS",TV_5
+http://opplex.org:8080/live/36254571/3526987/246220.ts
+#EXTINF:-1 tvg-id="tv5kannada.in" tvg-name="TV5_KANNADA" tvg-logo="" group-title="RELIGIOUS",TV5_KANNADA
+http://opplex.org:8080/live/36254571/3526987/246221.ts
+#EXTINF:-1 tvg-id="" tvg-name="24News" tvg-logo="" group-title="RELIGIOUS",24News
+http://opplex.org:8080/live/36254571/3526987/246222.ts
+#EXTINF:-1 tvg-id="jeevantv.in" tvg-name="Jeevan" tvg-logo="" group-title="RELIGIOUS",Jeevan
+http://opplex.org:8080/live/36254571/3526987/246223.ts
+#EXTINF:-1 tvg-id="jaihindtv.in" tvg-name="Jaihind" tvg-logo="" group-title="RELIGIOUS",Jaihind
+http://opplex.org:8080/live/36254571/3526987/246224.ts
+#EXTINF:-1 tvg-id="amritatv.in" tvg-name="AMrita" tvg-logo="" group-title="RELIGIOUS",AMrita
+http://opplex.org:8080/live/36254571/3526987/246225.ts
+#EXTINF:-1 tvg-id="" tvg-name="Survana_news" tvg-logo="" group-title="RELIGIOUS",Survana_news
+http://opplex.org:8080/live/36254571/3526987/246226.ts
+#EXTINF:-1 tvg-id="wetv.in" tvg-name="WE" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_we.png" group-title="RELIGIOUS",WE
+http://opplex.org:8080/live/36254571/3526987/246227.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIN_TV" tvg-logo="http://openboxv8s.com/india/win_tv_in.jpg" group-title="RELIGIOUS",WIN_TV
+http://opplex.org:8080/live/36254571/3526987/246228.ts
+#EXTINF:-1 tvg-id="" tvg-name="YONETV" tvg-logo="" group-title="RELIGIOUS",YONETV
+http://opplex.org:8080/live/36254571/3526987/246229.ts
+#EXTINF:-1 tvg-id="mazhavilmanorama.in" tvg-name="Mazhavil Manorama" tvg-logo="http://openboxv8s.com/india/mazhavil_manorama.jpg" group-title="RELIGIOUS",Mazhavil Manorama
+http://opplex.org:8080/live/36254571/3526987/246230.ts
+
+#EXTINF:-1 tvg-id="382205" tvg-name="IN | Sports 18 (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="CRICKET",IN | Sports 18 (4K)
+http://opplex.org:8080/live/36254571/3526987/382205.ts
+#EXTINF:-1 tvg-id="167567" tvg-name="PK | PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK | PTV SPORTS
+http://opplex.org:8080/live/36254571/3526987/167567.ts
+#EXTINF:-1 tvg-id="217968" tvg-name="PK | PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK | PTV SPORTS HD
+http://opplex.org:8080/live/36254571/3526987/217968.ts
+#EXTINF:-1 tvg-id="167568" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",PK | Geo Super HD
+http://opplex.org:8080/live/36254571/3526987/167568.ts
+#EXTINF:-1 tvg-id="167569" tvg-name="PK | TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="CRICKET",PK | TEN SPORTS
+http://opplex.org:8080/live/36254571/3526987/167569.ts
+#EXTINF:-1 tvg-id="219643" tvg-name="T20 WORLD CUP 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/ICC_T20_World_Cup_2022_Logo.png" group-title="CRICKET",T20 WORLD CUP 01
+http://opplex.org:8080/live/36254571/3526987/219643.ts
+#EXTINF:-1 tvg-id="219689" tvg-name="PK | A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK | A Sports HD (Server 1)
+http://opplex.org:8080/live/36254571/3526987/219689.ts
+#EXTINF:-1 tvg-id="221417" tvg-name="PK | A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK | A Sports HD (Server 2)
+http://opplex.org:8080/live/36254571/3526987/221417.ts
+#EXTINF:-1 tvg-id="167570" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="CRICKET",IN | SONY TEN 1 HD
+http://opplex.org:8080/live/36254571/3526987/167570.ts
+#EXTINF:-1 tvg-id="167571" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="CRICKET",IN | SONY TEN 2 HD
+http://opplex.org:8080/live/36254571/3526987/167571.ts
+#EXTINF:-1 tvg-id="167572" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="CRICKET",IN | SONY TEN 3 HD
+http://opplex.org:8080/live/36254571/3526987/167572.ts
+#EXTINF:-1 tvg-id="167595" tvg-name="IN | SONY TEN 4 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="CRICKET",IN | SONY TEN 4 HD
+http://opplex.org:8080/live/36254571/3526987/167595.ts
+#EXTINF:-1 tvg-id="167587" tvg-name="CRI | Ten Cricket" tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png" group-title="CRICKET",CRI | Ten Cricket
+http://opplex.org:8080/live/36254571/3526987/167587.ts
+#EXTINF:-1 tvg-id="167573" tvg-name="IN | STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN | STAR SPORTS 1 Hindi
+http://opplex.org:8080/live/36254571/3526987/167573.ts
+#EXTINF:-1 tvg-id="167574" tvg-name="IN | Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN | Star Sports tamil 1
+http://opplex.org:8080/live/36254571/3526987/167574.ts
+#EXTINF:-1 tvg-id="167575" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN | Star Sports 1 HD
+http://opplex.org:8080/live/36254571/3526987/167575.ts
+#EXTINF:-1 tvg-id="167576" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET",IN | Star Sports 2 HD
+http://opplex.org:8080/live/36254571/3526987/167576.ts
+#EXTINF:-1 tvg-id="167577" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="CRICKET",IN | Star Sports 3 HD
+http://opplex.org:8080/live/36254571/3526987/167577.ts
+#EXTINF:-1 tvg-id="167578" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 1
+http://opplex.org:8080/live/36254571/3526987/167578.ts
+#EXTINF:-1 tvg-id="167579" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 2
+http://opplex.org:8080/live/36254571/3526987/167579.ts
+#EXTINF:-1 tvg-id="167580" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="CRICKET",IN | SONY TEN 5 HD
+http://opplex.org:8080/live/36254571/3526987/167580.ts
+#EXTINF:-1 tvg-id="167581" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="CRICKET",IN | Astro Cricket HD
+http://opplex.org:8080/live/36254571/3526987/167581.ts
+#EXTINF:-1 tvg-id="167592" tvg-name="SuperSport Cricket" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="CRICKET",SuperSport Cricket
+http://opplex.org:8080/live/36254571/3526987/167592.ts
+#EXTINF:-1 tvg-id="167593" tvg-name="AU | FOX CRICKET 501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="CRICKET",AU | FOX CRICKET 501
+http://opplex.org:8080/live/36254571/3526987/167593.ts
+#EXTINF:-1 tvg-id="167594" tvg-name="UK | Sky Sports Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" group-title="CRICKET",UK | Sky Sports Cricket
+http://opplex.org:8080/live/36254571/3526987/167594.ts
+#EXTINF:-1 tvg-id="167582" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="CRICKET",IN | Willow Xtra
+http://opplex.org:8080/live/36254571/3526987/167582.ts
+#EXTINF:-1 tvg-id="167583" tvg-name="IN | Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="CRICKET",IN | Willow Cricket HD
+http://opplex.org:8080/live/36254571/3526987/167583.ts
+#EXTINF:-1 tvg-id="167584" tvg-name="BS | beIN SPORT CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png" group-title="CRICKET",BS | beIN SPORT CRICKET
+http://opplex.org:8080/live/36254571/3526987/167584.ts
+#EXTINF:-1 tvg-id="167585" tvg-name="IN | EUROSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="CRICKET",IN | EUROSPORT HD
+http://opplex.org:8080/live/36254571/3526987/167585.ts
+#EXTINF:-1 tvg-id="167586" tvg-name="IN | 1SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN | 1SPORTS
+http://opplex.org:8080/live/36254571/3526987/167586.ts
+#EXTINF:-1 tvg-id="167588" tvg-name="IN | DD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="CRICKET",IN | DD Sports
+http://opplex.org:8080/live/36254571/3526987/167588.ts
+#EXTINF:-1 tvg-id="167590" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET",T-SPORTS
+http://opplex.org:8080/live/36254571/3526987/167590.ts
+#EXTINF:-1 tvg-id="167591" tvg-name="AFG | RTA SPORTS" tvg-logo="https://rtasportswear.com/wp-content/uploads/2020/03/logo-copy-300x123.png" group-title="CRICKET",AFG | RTA SPORTS
+http://opplex.org:8080/live/36254571/3526987/167591.ts
+#EXTINF:-1 tvg-id="206297" tvg-name="IND | jio Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title="CRICKET",IND | jio Cricket
+http://opplex.org:8080/live/36254571/3526987/206297.ts
+#EXTINF:-1 tvg-id="206566" tvg-name="UK | TNT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="CRICKET",UK | TNT Sport 2 CRICKET
+http://opplex.org:8080/live/36254571/3526987/206566.ts
+#EXTINF:-1 tvg-id="207190" tvg-name="PK | MAQ TV CRICKET" tvg-logo="" group-title="CRICKET",PK | MAQ TV CRICKET
+http://opplex.org:8080/live/36254571/3526987/207190.ts
+#EXTINF:-1 tvg-id="217530" tvg-name="NZ | SKY Sport Cricket 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/600px-Sky_Sport_NZ_2019.svg.png" group-title="CRICKET",NZ | SKY Sport Cricket 3
+http://opplex.org:8080/live/36254571/3526987/217530.ts
+#EXTINF:-1 tvg-id="308225" tvg-name="PK | FAST SPORTS" tvg-logo="https://www.fastsports.tv/img/fs_logo.png" group-title="CRICKET",PK | FAST SPORTS
+http://opplex.org:8080/live/36254571/3526987/308225.ts
+#EXTINF:-1 tvg-id="371469" tvg-name="StarzPlay CricLife 1" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="CRICKET",StarzPlay CricLife 1
+http://opplex.org:8080/live/36254571/3526987/371469.ts
+#EXTINF:-1 tvg-id="371470" tvg-name="StarzPlay CricLife 2" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="CRICKET",StarzPlay CricLife 2
+http://opplex.org:8080/live/36254571/3526987/371470.ts
+#EXTINF:-1 tvg-id="371471" tvg-name="StarzPlay CricLife 3" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="CRICKET",StarzPlay CricLife 3
+http://opplex.org:8080/live/36254571/3526987/371471.ts
