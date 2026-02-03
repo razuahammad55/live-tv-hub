@@ -75,8 +75,14 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/33.png",Sony Aath
 https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="AynaOTT",Ekhon TV
+http://103.229.254.25:7001/play/a09k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="ROAR ISP*",T sports
 https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
 
-#EXTINF:-1 group-title="music" tvg-logo="https://tvassets.roarzone.info/images/48.png",9xM
-http://103.229.254.25:7001/play/a07o/index.m3u8
+#EXTINF:-1 tvg-name="T_SPORTS" tvg-id="T_SPORTS",T_SPORTS
+http://ziboflow.ott-king.top:8080/T_SPORTS/video.m3u8
