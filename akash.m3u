@@ -13,8 +13,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="",6
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-logo="",7
-https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="",8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="",9
@@ -23,12 +22,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-logo="",11
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 tvg-logo="",12
-https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="",13
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1 tvg-logo="",14
-https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="",15
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="",16
@@ -36,8 +33,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="",20
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-#EXTINF:-1 tvg-logo="",35
-https://owrcovcrpy.gpcdn.net/bpk-tv/1735/output/index.m3u8
+#EXTINF:-1 tvg-logo="",36
+https://owrcovcrpy.gpcdn.net/bpk-tv/1736/output/index.m3u8
 #EXTINF:-1 tvg-logo="",22
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="",23
