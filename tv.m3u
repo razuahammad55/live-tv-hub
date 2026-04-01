@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Jamuna_tv.png" group-title="Bangla",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
+
+http://103.161.153.165:8000/play/atnbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/somoy_news.png" group-title="Bangla",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/channel24.png" group-title="Bangla",Channel 24
