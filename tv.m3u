@@ -74,13 +74,13 @@ http://103.229.254.25:7001/play/a031/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="AynaOTT",Star Jalsha HD
-http://103.229.254.25:7001/play/a0c0/index.m3u8
+http://103.161.153.165:8000/play/starjal/index.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/31.png",Star Jalsha Movies
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/34.png",Zee Bangla HD
 http://103.161.153.165:8000/play/zeebnhd/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
+#http://103.180.212.191:3500/live/1369.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/33.png",Sony Aath
@@ -129,4 +129,10 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 http://59.152.99.22:9999/live/channel1/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
+#http://103.180.212.191:3500/live/1341.m3u8
+
+
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
+http://103.175.242.10:8080/sonymax/index.m3u8
 
