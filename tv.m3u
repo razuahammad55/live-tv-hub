@@ -87,7 +87,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="Sports",T sports
-#http://103.96.235.18:9090/sports1/index.m3u8
+http://103.96.235.18:9090/sports1/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
