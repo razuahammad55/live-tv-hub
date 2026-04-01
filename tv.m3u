@@ -87,7 +87,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png",Colors Bangla HD
-#http://103.180.212.191:3500/live/1369.m3u8
+http://103.180.212.191:3500/live/1369.m3u8
 
 
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
