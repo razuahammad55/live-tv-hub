@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Jamuna_tv.png" group-title="Bangla",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
-
-http://103.161.153.165:8000/play/atnbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/somoy_news.png" group-title="Bangla",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/channel24.png" group-title="Bangla",Channel 24
@@ -38,7 +35,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/ATN_Bangla.png" group-title="SM All TV",ATN Bangla
-https://bdix.sm-monirulislam-exp.workers.dev/1722/output/index.m3u8
+http://103.161.153.165:8000/play/atnbd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/G_Tv.png" group-title="Bangla",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
@@ -81,6 +78,8 @@ http://103.229.254.25:7001/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/31.png",Star Jalsha Movies
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/34.png",Zee Bangla HD
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+http://103.175.242.10:8080/zeebangla/index.m3u8
 http://103.229.254.25:7001/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
@@ -90,7 +89,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="Sports",T sports
-https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
+#http://103.96.235.18:9090/sports1/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
@@ -125,3 +124,11 @@ http://103.229.254.25:7001/play/a02u/index.m3u8
 
 #EXTINF:-1 group-title="-",SONY Aath
 http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+http://59.152.99.22:9999/live/channel1/index.m3u8
+
+
+
