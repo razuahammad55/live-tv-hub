@@ -139,3 +139,6 @@ http://59.152.99.22:9999/live/channel1/index.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 http://103.175.242.10:8080/sonymax/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Discovery বাংলা
+http://103.180.212.191:3500/live/573.m3u8
