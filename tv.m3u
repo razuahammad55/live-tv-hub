@@ -110,7 +110,9 @@ http://103.159.180.34:5001/live/3428.m3u8
 http://103.159.180.34:5001/live/562.m3u8
 
 
-
+#EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+http://59.152.99.22:9999/live/channel1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/ATN_Bangla.png" group-title="SM All TV",ATN Bangla
 http://103.161.153.165:8000/play/atnbd/index.m3u8
@@ -200,23 +202,3 @@ http://103.229.254.25:7001/play/a02w/index.m3u8
 http://103.229.254.25:7001/play/a02v/index.m3u8
 #EXTINF:-1 group-title="-",SONY PIX HD
 http://103.229.254.25:7001/play/a02u/index.m3u8
-
-#EXTINF:-1 group-title="-",SONY Aath
-http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-http://59.152.99.22:9999/live/channel1/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
-#http://103.180.212.191:3500/live/1341.m3u8
-
-
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-http://103.175.242.10:8080/sonymax/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Discovery বাংলা
-http://103.180.212.191:3500/live/573.m3u8
