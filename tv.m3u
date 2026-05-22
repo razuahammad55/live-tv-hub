@@ -34,70 +34,48 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Channel_9.jpg" group-title="Bangla",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 ,--Live(STAR SPORTS SELECT 1 HD)--
-http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
-#EXTINF:-1 ,MOV | ZEE BANGLA CINEMA
-http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
-#EXTINF:-1 ,SONY MAX HD
-http://198.195.239.50:8095/SonyMAX/index.m3u8
-#EXTINF:-1 ,Sony Aath
-http://198.195.239.50:8095/SonyAath/index.m3u8
-#EXTINF:-1 ,ICC T20 WORLD CUP 2026 BDIX 1
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,News 24
-http://198.195.239.50:8095/News24/index.m3u8
-#EXTINF:-1 ,Star Sports 1 HD 🇮🇳
-http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,PSL 2026
-http://198.195.239.50:8095/Tsports/index.m3u8
-#EXTINF:-1 ,ICC World Cup 2026
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,0. Discovery Kids Hindi
-http://198.195.239.50:8095/DiscoveryKids/index.m3u8
-#EXTINF:-1 ,IPL 2026
-http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Nagorik TV
 http://198.195.239.50:8095/nagorik/index.m3u8
-#EXTINF:-1 ,Cartoon Network
-http://198.195.239.50:8095/CartoonNetwork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MOV | Star Gold HD
-http://198.195.239.50:8095/StarGold/index.m3u8
-#EXTINF:-1 ,ENT | Sony Entertainment HD
-http://198.195.239.50:8095/SonyTv/index.m3u8
-#EXTINF:-1 ,A Sports
-http://198.195.239.50:8095/Eurosport/index.m3u8
-#EXTINF:-1 ,10 Cartoon Network
-http://198.195.239.50:8095/CartoonNetwork/index.m3u8
-#EXTINF:-1 ,--Live(Sony sports 2)--
-http://198.195.239.50:8095/SonyTenSports2/index.m3u8
-#EXTINF:-1 ,Star Movies
-http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ENT | Star Plus HD
-http://198.195.239.50:8095/StarPlus/index.m3u8
+
+
+#EXTINF:-1 , ZEE BANGLA CINEMA
+http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
 #EXTINF:-1 ,Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/index.m3u8
-#EXTINF:-1 ,Discovery Bangla
-http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Jalsha Movies
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MOV | JALSHA MOVIES HD
+
+#EXTINF:-1 , JALSHA MOVIES HD
 http://198.195.239.50:8095/JalshaMovies/index.m3u8
-#EXTINF:-1 ,A Sports HD 🇵🇰
-http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,News 24
-http://198.195.239.50:8095/News24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony Aath
-http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sony TV HD
-http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE TV HD
-http://198.195.239.50:8095/ZeeTV/index.m3u8
-#EXTINF:-1 ,Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery Kids
-http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery HD
-http://198.195.239.50:8095/Discovery/index.m3u8
+http://198.195.239.50:8095/SonyAath/index.m3u8
+
+
+#EXTINF:-1 ,Tsports
+http://198.195.239.50:8095/Tsports/index.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 1 HD
+http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
+#EXTINF:-1 ,STAR SPORTS 1 HD
+http://198.195.239.50:8095/SonyTenSports5/index.m3u8
+
+
+
+
+#EXTINF:-1 ,0. Discovery Kids Hindi
+http://198.195.239.50:8095/DiscoveryKids/index.m3u8
+
+
+
+#EXTINF:-1 , Star Gold HD
+http://198.195.239.50:8095/StarGold/index.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://198.195.239.50:8095/SonyMAX/index.m3u8
+#EXTINF:-1 , Sony Entertainment HD
+http://198.195.239.50:8095/SonyTv/index.m3u8
+#EXTINF:-1 ,Star Plus HD
+http://198.195.239.50:8095/StarPlus/index.m3u8
+
+#EXTINF:-1 ,Star Movies HD
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/10/MyTV_HD_logo_2020.png" group-title="BANGLADESH",মাই টিভি
 http://premimum.online/live/jen12345/jen54321/398.ts
