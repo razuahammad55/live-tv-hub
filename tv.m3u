@@ -1,4 +1,25 @@
 #EXTM3U
+
+#EXTINF:-1,NAGORIK HD
+http://198.195.239.50:8095/nagorik/index.m3u8
+#EXTINF:-1,T Sports HD
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,A Sports HD
+http://103.204.43.87:8080/live/1/1/309.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/B_tv.png" group-title="Bangla",B TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/somoy_news.png" group-title="Bangla",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+
+#EXTINF:-1 ,Tsports
+http://198.195.239.50:8095/Tsports/index.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 1 HD
+http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
+#EXTINF:-1 ,STAR SPORTS 1 HD
+http://198.195.239.50:8095/SonyTenSports5/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Jamuna_tv.png" group-title="Bangla",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/somoy_news.png" group-title="Bangla",Somoy TV
@@ -33,6 +54,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Channel_9.jpg" group-title="Bangla",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Bangla_tv.png" group-title="Bangla",Bangla TV
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/R_tv.png" group-title="Bangla",R TV
+http://116.204.149.16/rtvhd/index.m3u8
 
 #EXTINF:-1 ,Nagorik TV
 http://198.195.239.50:8095/nagorik/index.m3u8
@@ -79,6 +106,10 @@ http://198.195.239.50:8095/StarPlus/index.m3u8
 
 #EXTINF:-1 ,Star Movies HD
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Doronto.png" group-title="Bangla",Duronto TV
+http://103.204.43.87:8080/live/1/1/290.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 http://103.159.180.34:5001/live/3428.m3u8
@@ -129,12 +160,10 @@ http://59.152.99.22:9999/live/channel1/index.m3u8
 http://103.161.153.165:8000/play/atnbd/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/R_tv.png" group-title="Bangla",R TV
+
 http://103.229.254.25:7001/play/a068/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Doronto.png" group-title="Bangla",Duronto TV
-http://103.229.254.25:7001/play/a05k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Bangla_tv.png" group-title="Bangla",Bangla TV
-http://103.229.254.25:7001/play/a06c/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Anando_tv.png" group-title="Bangla",Ananda TV
 http://103.229.254.25:7001/play/a05v/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/ekhon-tv.jpg" group-title="Bangla",Ekhon TV
