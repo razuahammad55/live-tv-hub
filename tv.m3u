@@ -40,8 +40,13 @@ http://116.204.149.16/mytv/index.m3u8
 #EXTINF:-1,Football World Cup 2026 (BIOSCOPE PLUS)
 https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
 
+#EXTINF:-1,z bangla cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
 #EXTINF:-1,Z বাংলাসোনারা
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+
+
 
 #EXTINF:-1 tvg-id="T_sports_2" tvg-name="T Sports 2" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="FIFA",T Sports 2
 http://198.195.239.50:8095/tsports/index.m3u8
