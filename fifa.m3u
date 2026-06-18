@@ -1,1 +1,57 @@
--
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV Live 🇧🇩
+http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV 🇧🇩
+http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 , FUSSBALL TV 1
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+
+#EXTINF:-1, United8 Sports 1 HD - Hindi
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope Live 🇧🇩
+https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", 616 Sports 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 1 Max 
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts
+
+#EXTINF:-1,United8 Sports 2 HD
+http://202.70.146.135:8000/play/a06s/index.m3u8
+
+#EXTINF:-1, Go3 Sport 3 Live
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
+
+#EXTINF:-1,Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1,T Sports
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
+
+#EXTINF:-1,মাই টিভি
+http://116.204.149.16/mytv/index.m3u8
+
+#EXTINF:-1,Football World Cup 2026 (BIOSCOPE PLUS)
+https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
+
+#EXTINF:-1,z bangla cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+#EXTINF:-1,Z বাংলাসোনারা
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+
+
+
+#EXTINF:-1 tvg-id="T_sports_2" tvg-name="T Sports 2" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="FIFA",T Sports 2
+http://198.195.239.50:8095/tsports/index.m3u8
