@@ -1,5 +1,29 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" ,Bioscope+ 1
+http://sm-monirul.top/ott/bioscope1/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", TOFFEE-🇧🇩-1ᶠᴴᴰ
+http://sm-monirul.top/tof/live/toffee1/index.m3u8
+https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", TOFFEE-🇧🇩-2ᶠᴴᴰ
+http://sm-monirul.top/tof/live/toffee2/index.m3u8
+https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", TOFFEE-🇧🇩-3ᶠᴴᴰ
+http://sm-monirul.top/tof/live/toffee3/index.m3u8
+https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", TOFFEE-🇧🇩-4ᶠᴴᴰ
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
+https://kazimmt.ami.bd/playlist/TF/TF-4.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", TOFFEE-🇧🇩-5ᶠᴴᴰ
+https://sm-monirul.top/tof/live/toffee5/index.m3u8
+https://kazimmt.ami.bd/playlist/TF/TF-5.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", TOFFEE-🇧🇩-6ᶠᴴᴰ
+https://sm-monirul.top/tof/live/toffee6/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", I Screen
 https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
 
