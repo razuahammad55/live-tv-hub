@@ -51,6 +51,45 @@ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1712
+https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1714
+https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1717
+https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1718
+https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1719
+https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1721
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1725
+https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1726
+https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1727
+https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1730
+https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1731
+https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",1732
+https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Bangla_tv.png" group-title="Bangla",Bangla TV
 http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/R_tv.png" group-title="Bangla",R TV
