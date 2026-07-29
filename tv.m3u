@@ -1,32 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Jamuna_tv.png" group-title="Bangla",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-
-#EXTINF:-1 group-title="news" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BT TV 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/1725-audio_113552_eng=113200-video=1998800.m3u8
-
-#EXTINF:-1 group-title="news" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV 
+#EXTINF:-1 group-title="news" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", B TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 
-#EXTINF:-1 group-title="news" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV 
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy2 TV 
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T Sports HD
-https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Football World Cup
-http://103.165.93.31:8095/tsports/video.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV
-http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Jamuna_tv.png" group-title="Bangla",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/somoy_news.png" group-title="Bangla",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/channel24.png" group-title="Bangla",Channel 24
@@ -59,6 +37,18 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Channel_9.jpg" group-title="Bangla",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Channel_I.png" group-title="Bangla",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Channel_I.png" group-title="Bangla",Desh TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Channel_I.png" group-title="Bangla",T Sports
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/ekhon-tv.jpg" group-title="Bangla",Ekhon TV
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Bangla_tv.png" group-title="Bangla",Bangla TV
@@ -171,8 +161,7 @@ http://103.229.254.25:7001/play/a068/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Anando_tv.png" group-title="Bangla",Ananda TV
 http://103.229.254.25:7001/play/a05v/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/ekhon-tv.jpg" group-title="Bangla",Ekhon TV
-http://103.229.254.25:7001/play/a09k/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Ekushey_Etv.png" group-title="Bangla",Ekushey TV
 http://103.229.254.25:7001/play/a05x/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/channel-s.png" group-title="Bangla",Channel S
