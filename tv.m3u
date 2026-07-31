@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Jamuna_tv.png" group-title="Bangla",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/somoy_news.png" group-title="Bangla",Somoy TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/somoy_news1.png" group-title="Bangla",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/channel24.png" group-title="Bangla",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -48,7 +48,6 @@ http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Bangla_tv.png" group-title="Bangla",Global TV
 http://116.204.149.16/globaltv/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Movie_Bangla.png" group-title="Bangla",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/ekhon-tv.jpg" group-title="Bangla",Ekhon TV
@@ -60,121 +59,44 @@ http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
+#EXTINF:-1, Animal Planet
+http://103.151.61.12/Animal_Planet/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Sony YAY
+https://stream.ottplus.bd/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
+
+#EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/31.png",Star Jalsha Movies
+http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 http://103.151.61.12/Z_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af05n15" group-title="AynaOTT",SONY AATH
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Channel_I.png" group-title="Bangla",T Sports
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Sports 1
+http://103.151.61.12/STAR_SPORTS_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Unite 8 Sports 1
+http://103.151.61.12/STAR_SPORTS_SELECT2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Zee Cinema HD
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
+#EXTINF:-1, Sony Max
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+#EXTINF:-1, Goldmines SD
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 
 
-
-
-
-#EXTINF:-1 ,Nagorik TV
-http://198.195.239.50:8095/nagorik/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/G_Tv.png" group-title="Bangla",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-
-
-#EXTINF:-1 , ZEE BANGLA CINEMA
-http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
-#EXTINF:-1 ,Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/index.m3u8
-#EXTINF:-1 , JALSHA MOVIES HD
-http://198.195.239.50:8095/JalshaMovies/index.m3u8
-#EXTINF:-1 ,Sony Aath
-http://198.195.239.50:8095/SonyAath/index.m3u8
-
-
-#EXTINF:-1 ,Tsports
-http://198.195.239.50:8095/Tsports/index.m3u8
-#EXTINF:-1 ,STAR SPORTS SELECT 1 HD
-http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
-#EXTINF:-1 ,STAR SPORTS 1 HD
-http://198.195.239.50:8095/SonyTenSports5/index.m3u8
-
-
-
-
-#EXTINF:-1 ,0. Discovery Kids Hindi
-http://198.195.239.50:8095/DiscoveryKids/index.m3u8
-
-
-
-#EXTINF:-1 , Star Gold HD
-http://198.195.239.50:8095/StarGold/index.m3u8
-#EXTINF:-1 ,SONY MAX HD
-http://198.195.239.50:8095/SonyMAX/index.m3u8
-#EXTINF:-1 , Sony Entertainment HD
-http://198.195.239.50:8095/SonyTv/index.m3u8
-#EXTINF:-1 ,Star Plus HD
-http://198.195.239.50:8095/StarPlus/index.m3u8
-
-#EXTINF:-1 ,Star Movies HD
-http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Doronto.png" group-title="Bangla",Duronto TV
-http://103.204.43.87:8080/live/1/1/290.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 http://103.159.180.34:5001/live/3428.m3u8
-
-
-
-
-#EXTINF:-1 tvg-chno="115" tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
-http://premimum.online/live/jen12345/jen54321/435.ts
-#http://103.175.242.10:8080/zeebangla/index.m3u8
-#http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ZEE BANGLA
-http://103.159.180.34:5001/live/625.m3u8
-
-
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar
-http://103.159.180.34:5001/live/3476.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
-http://premimum.online/live/jen12345/jen54321/198.ts
-https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
-#http://stvlive.net:8080/starjalsha/index.m3u8
-http://tvn2.chowdhury-shaheb.com/starjalsha/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
-http://premimum.online/live/jen12345/jen54321/183.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
-http://premimum.online/live/jen12345/jen54321/425.ts
-
-#EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
-http://103.159.180.34:5001/live/562.m3u8
-
-
-#EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
-http://59.152.99.22:9999/live/channel1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/ATN_Bangla.png" group-title="SM All TV",ATN Bangla
-http://103.161.153.165:8000/play/atnbd/index.m3u8
-
-
-
-http://103.229.254.25:7001/play/a068/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Anando_tv.png" group-title="Bangla",Ananda TV
 http://103.229.254.25:7001/play/a05v/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Ekushey_Etv.png" group-title="Bangla",Ekushey TV
 http://103.229.254.25:7001/play/a05x/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/channel-s.png" group-title="Bangla",Channel S
@@ -183,65 +105,3 @@ http://103.229.254.25:7001/play/a060/index.m3u8
 http://103.229.254.25:7001/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Nagorik_tv.png" group-title="Bangla",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/T_Sports.png" group-title="Sport",T Sports
-https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
-
-#EXTINF:-1 group-title="documentary" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png",Animal Planet
-http://103.229.254.25:7001/play/a0dr/index.m3u8
-#EXTINF:-1 group-title="documentary" tvg-logo="https://tvassets.roarzone.info/images/43.png",Discovery HD
-http://103.229.254.25:7001/play/a03g/index.m3u8
-#EXTINF:-1 group-title="documentary" tvg-logo="https://tvassets.roarzone.info/images/35.png",Natgeo
-http://103.229.254.25:7001/play/a038/index.m3u8
-#EXTINF:-1 group-title="documentary",SONY BBC EARTH HD
-http://103.229.254.25:7001/play/a031/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="AynaOTT",Star Jalsha HD
-http://103.161.153.165:8000/play/starjal/index.m3u8
-#EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/31.png",Star Jalsha Movies
-http://103.229.254.25:7001/play/a0dt/index.m3u8
-#EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/34.png",Zee Bangla HD
-http://103.161.153.165:8000/play/zeebnhd/index.m3u8
-
-
-#EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/33.png",Sony Aath
-https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
-
-#EXTINF:-1 group-title="inbangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png",Colors Bangla HD
-http://103.180.212.191:3500/live/1369.m3u8
-
-
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD
-http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="Sports",T sports
-http://103.96.235.18:9090/sports1/index.m3u8
-#EXTINF:-1 group-title="music" tvg-logo="https://tvassets.roarzone.info/images/48.png",9xM
-http://103.229.254.25:7001/play/a07o/index.m3u8
-
-#EXTINF:-1 group-title="-",SET HD
-http://103.229.254.25:7001/play/a09u/index.m3u8
-
-#EXTINF:-1 group-title="-",& pictures HD
-http://103.229.254.25:7001/play/a033/index.m3u8
-#EXTINF:-1 group-title="-",Zee Cinema HD
-http://103.229.254.25:7001/play/a0c2/index.m3u8
-#EXTINF:-1 group-title="-",Zee Classic
-http://103.229.254.25:7001/play/a09w/index.m3u8
-#EXTINF:-1 group-title="-",Zee Bollywood
-http://103.229.254.25:7001/play/a0dk/index.m3u8
-
-#EXTINF:-1 group-title="-",STAR GOLD HD
-http://103.229.254.25:7001/play/a0dd/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold 2 HD
-http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold Select HD
-http://103.229.254.25:7001/play/a032/index.m3u8
-
-#EXTINF:-1 group-title="-",STAR Movies HD
-http://103.229.254.25:7001/play/a02w/index.m3u8
-#EXTINF:-1 group-title="-",STAR Movies Select HD
-http://103.229.254.25:7001/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-",SONY PIX HD
-http://103.229.254.25:7001/play/a02u/index.m3u8
