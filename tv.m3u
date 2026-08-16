@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+
+#EXTINF:-1, Zee Bangla
+https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/zeebanglarangdhonu/playlist.m3u8?expires=1786966521&sig=FH0fSS9vWUBLgxxDXFxJgZdaDSPOgprVvB11mSaQh5s
+
+#EXTINF:-1, Star Jalsha
+https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/starjalshailoveyoutanha/playlist.m3u8?expires=1786966660&sig=31paF3aex0By5TfSoV5i1-IXdWFSw-m7ugYZ8JWy898
+
+
+
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",BTV News
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 
