@@ -1,20 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1  ,Zee Bangla
-https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/zeebanglarangdhonutv/playlist.m3u8?expires=1797455626&sig=OVwTJpENM6c-lYcq0kWskEtY0McX61OHr6afsvZmBcs
-
-#EXTINF:-1  ,Star Jalsha
-https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/starjalshailoveyoutanhatv/playlist.m3u8?expires=1786988133&sig=sWfN6RvRjkc4ZzEgZPkQST-c6mC2ccXdu_k0mE44jQA
-
-#EXTINF:-1, Zee Bangla 2
-https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/zeebanglarangdhonu/playlist.m3u8
-
-#EXTINF:-1, Star Jalsha 2
-https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/starjalshailoveyoutanha/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",BTV News
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 
@@ -75,6 +61,15 @@ https://stream.ottplus.bd/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+
+#EXTINF:-1  ,Zee Bangla
+https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/zeebanglarangdhonutv/playlist.m3u8?expires=1786988088&sig=OVwTJpENM6c-lYcq0kWskEtY0McX61OHr6afsvZmBcs
+
+#EXTINF:-1  ,Star Jalsha
+https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/starjalshailoveyoutanhatv/playlist.m3u8?expires=1786988133&sig=sWfN6RvRjkc4ZzEgZPkQST-c6mC2ccXdu_k0mE44jQA
+
+
 
 
 #EXTINF:-1, Zee Cinema HD
