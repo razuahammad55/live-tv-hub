@@ -1,12 +1,17 @@
 #EXTM3U
 
 
+#EXTINF:-1  ,Zee Bangla
+https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/zeebanglarangdhonutv/playlist.m3u8?expires=1786988088&sig=OVwTJpENM6c-lYcq0kWskEtY0McX61OHr6afsvZmBcs
 
-#EXTINF:-1, Zee Bangla
-https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/zeebanglarangdhonu/playlist.m3u8?expires=1786966521&sig=FH0fSS9vWUBLgxxDXFxJgZdaDSPOgprVvB11mSaQh5s
+#EXTINF:-1  ,Star Jalsha
+https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/starjalshailoveyoutanhatv/playlist.m3u8?expires=1786988133&sig=sWfN6RvRjkc4ZzEgZPkQST-c6mC2ccXdu_k0mE44jQA
 
-#EXTINF:-1, Star Jalsha
-https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/starjalshailoveyoutanha/playlist.m3u8?expires=1786966660&sig=31paF3aex0By5TfSoV5i1-IXdWFSw-m7ugYZ8JWy898
+#EXTINF:-1, Zee Bangla 2
+https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/zeebanglarangdhonu/playlist.m3u8
+
+#EXTINF:-1, Star Jalsha 2
+https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/starjalshailoveyoutanha/playlist.m3u8
 
 
 
