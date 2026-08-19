@@ -1,0 +1,48 @@
+name: Update TV Playlist
+
+on:
+  push:
+    paths:
+      - 'my_channels.m3u'
+      - '.github/workflows/update-playlist.yml'
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download external playlist
+        run: |
+          curl -L \
+            "https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/akash_live.m3u" \
+            -o akash_live.m3u
+
+      - name: Combine playlists
+        run: |
+          echo "#EXTM3U" > tv.m3u
+
+          tail -n +2 my_channels.m3u >> tv.m3u
+          tail -n +2 akash_live.m3u >> tv.m3u
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add tv.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update TV playlist"
+            git push
+          fi
